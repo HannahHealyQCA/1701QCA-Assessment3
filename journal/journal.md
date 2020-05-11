@@ -327,7 +327,7 @@ I also prototyped the book layout with the sensors. If I were to choose this tou
 
 I need to continue my research on touch sensors. But this is the most successful option so far, although I do have some trouble connecting it to different outputs (below). Consequently, I need to continue prototyping and conducting research either to polish this option or find alternatives.
 
-As this method was too problematic to continue with, I went for a more simpilar method of just a switch made out of aluminium foil. With a fragmented aluminium strip on one side and a piece of aluminium that completes the circuit on the other the side of the page, when the pages are turned it can close the circuit. I tested this first with the motor in the record player which worked successfully without any unreliability. 
+As this method was too problematic to continue with, I went for a more simpler method of just a switch made out of aluminium foil. With a fragmented aluminium strip on one side and a piece of aluminium that completes the circuit on the other the side of the page, when the pages are turned it can close the circuit. I tested this first with the motor in the record player which worked successfully without any unreliability. 
 ![Image](tscode3.jpg)
 (This is the code I used when testing the switch with the record player.)
 
