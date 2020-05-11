@@ -370,7 +370,7 @@ The adapted code can be found at this link:
 
 I also tested this method with the servo.
 
-![Image](tscode7.jpg)
+![Image](tscode7.PNG)
 (This is the adapted code.)
 
 ![Image](tstest10.jpg)
