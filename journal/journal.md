@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Hannah Healy*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -315,7 +315,7 @@ After troubleshooting a few problems with errors in code (greyed out code) and c
 
 (This is an image of the final test of multiple sensors.)
 
-I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images. However, I will not be using alligator clips, i would solder the wires to the aluminium foil.
+I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images. However, I will not be using alligator clips, I would solder the wires to the aluminium foil.
 
 ![Image](book1.jpg)
 
@@ -327,6 +327,55 @@ I also prototyped the book layout with the sensors. If I were to choose this tou
 
 I need to continue my research on touch sensors. But this is the most successful option so far, although I do have some trouble connecting it to different outputs (below). Consequently, I need to continue prototyping and conducting research either to polish this option or find alternatives.
 
+As this method was too problematic to continue with, I went for a more simpilar method of just a switch made out of aluminium foil. With a fragmented aluminium strip on one side and a piece of aluminium that completes the circuit on the other the side of the page, when the pages are turned it can close the circuit. I tested this first with the motor in the record player which worked successfully without any unreliability. 
+![Image](tscode3.jpg)
+(This is the code I used when testing the switch with the record player.)
+
+![Image](tstest5.jpg)
+(This is an image of the switch installed onto the book.)
+
+I then tried adding the speaker. Because the code had the song when the microbit starts, it began playing even if you could not hear it and then when the switch was triggered it began in the iddle of the song instead of the start. 
+![Image](tscode4.jpg)
+(This is the code I used when testing a switch with the speaker.)
+
+![Image](tstest6.png)
+(This an image of the unsuccessful speaker.)
+
+Consequently, this method was not viable. I could use this method for the lights, fan, and record player as they just utilise motors and leds which do not need specific timing.
+I did not need to test the fan as it uses the smae tech as the record player, but I did test the leds just to work out the wiring.
+
+![Image](tstest7.jpg)
+(This is an image of the led test.)
+
+To find a better way for the servo and speaker, I looked more into the animated book tutorial and a paper piano tutorial.
+()
+(https://www.youtube.com/watch?v=6a_rykLlN3k)
+(https://www.youtube.com/redirect?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj%2Fview%3Fusp%3Dsharing&event=video_description&v=6a_rykLlN3k&redir_token=sYNToBw5rJ493TFrbEfendbpNSF8MTU4OTI4MTEyOUAxNTg5MTk0NzI5)
+
+I first adapted the code in the animated book tutorial. However, through this method I could only get it to work when directly touching the microbit pins with aluminium foil. I tried using alligator clips to expand the connection but it did not work. This was not useable as I could not have the pages of the book directly touching the microbit It would be messy with exposed wires and I needed the microbit to have access to other tech.
+![Image](tscode5.jpg)
+(This is the adapted code I created.)
+
+![Image](tstest8.jpg)
+(This is an image of a test that triggers the microbit LEDs.)
+
+Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, the LEDs would just flash randomly and the microit got very hot. I tried it again the necxt day and it worked perfectly. Despite these initial hiccups, this is the most viable optio for the specific components that need to be timed. 
+
+![Image](tscode6.jpg)
+(this is the adapted code.)
+
+![Image](tstest9.jpg)
+(Above is an image of the test.)
+
+I also tested this method with the servo.
+
+![Image](tscode7.jpg)
+(This is the adapted code.)
+
+![Image](tstest10.jpg)
+(Above is an image of the test.)
+
+With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
