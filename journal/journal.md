@@ -359,7 +359,7 @@ I first adapted the code in the animated book tutorial. However, through this me
 ![Image](tstest8.jpg)
 (This is an image of a test that triggers the microbit LEDs.)
 
-Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, the LEDs would just flash randomly and the microit got very hot. I tried it again the necxt day and it worked perfectly. Despite these initial hiccups, this is the most viable optio for the specific components that need to be timed. 
+Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, the LEDs would just flash randomly and the microit got very hot. I tried it again the next day and it worked perfectly. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
 
 ![Image](tscode6.jpg)
 (this is the adapted code.)
@@ -375,7 +375,7 @@ I also tested this method with the servo.
 ![Image](tstest10.jpg)
 (Above is an image of the test.)
 
-With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
+With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
