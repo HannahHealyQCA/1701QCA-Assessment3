@@ -328,15 +328,15 @@ I also prototyped the book layout with the sensors. If I were to choose this tou
 I need to continue my research on touch sensors. But this is the most successful option so far, although I do have some trouble connecting it to different outputs (below). Consequently, I need to continue prototyping and conducting research either to polish this option or find alternatives.
 
 As this method was too problematic to continue with, I went for a more simpler method of just a switch made out of aluminium foil. With a fragmented aluminium strip on one side and a piece of aluminium that completes the circuit on the other the side of the page, when the pages are turned it can close the circuit. I tested this first with the motor in the record player which worked successfully without any unreliability. 
-![Image](tscode3.jpg)
+![Image](tscode3.PNG)
 (This is the code I used when testing the switch with the record player.)
 
 ![Image](tstest5.jpg)
 (This is an image of the switch installed onto the book.)
 
 I then tried adding the speaker. Because the code had the song when the microbit starts, it began playing even if you could not hear it and then when the switch was triggered it began in the iddle of the song instead of the start. 
-![Image](tscode4.jpg)
-(This is the code I used when testing a switch with the speaker.)
+The code I used when testing a switch with the speaker is at:
+(https://makecode.microbit.org/_5yt9kHP4XRbv)
 
 ![Image](tstest6.png)
 (This an image of the unsuccessful speaker.)
@@ -361,8 +361,8 @@ I first adapted the code in the animated book tutorial. However, through this me
 
 Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, it was erradic and the microit got very hot. I tried it again the next day and it worked basically perfectly. When I touched the two aluminium pieces the speaker crackled and when i realeased them the volume decreased. Although this may contribute to the ambiance as record players do crackle, I needed the volume to be at full capacity. I notices that bothe the speaker and one of the sensors were on pin 0 so i changed the sensor to a different pin and that fixed the problem. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
 
-![Image](tscode6.jpg)
-(this is the adapted code.)
+The adapted code can be found at this link:
+(https://makecode.microbit.org/_02s72K3R8KpL)
 
 ![Image](tstest9.jpg)
 (Above is an image of the test.)
