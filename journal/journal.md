@@ -495,14 +495,21 @@ After measuring and cutting the wood, I began to arrange the pieces and glue the
 
 (This is the final basic construction of the room.)
 
+I also added a wooden floor. I cut and stained each individual wooden stick and then installed them into the floor. Although it was alot of work, I like the effect and contributed to the vintage feel. 
+
+![Image](wood5.jpg)
+(This is an image of the wooden floor.)
+
+
 ### Construction of Accessories ###
-I have also began making some of the accessories for the room.
+I made many accessories for the room. I wanted to develop the vintage feel more and make it seem as if you have really just walked into someone's house.
+
 I made a hanging plant by spiraling string around a mold and glueing in fake plants to emulate the look of an overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
 ![Image](access1.jpg)
 
 (This is an image of a handmade hanging plant).
 
-I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really liked to use mustard coloured velvet. I used cardbord and sheets of foam. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
+I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really liked to use mustard coloured velvet. I used cardbord and sheets of foam. I also added dimples in the cushion with a needle and thread and beads. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
 
 ![Image](access2.png)
 
@@ -513,6 +520,43 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 (This is an image of my final armchair.)
 
 I really like this piece as it is an eyecatching element that gives off a 70's vintage feel. I am very happy with how realistic it turned out.
+
+I also made a few different art pieces to put on the walls as I didn't want to leave them bare. I created a shadow box with 3D butterflies inside. I also made wall art out of a stamp that I put a border on and a vintage sticker. I used a miniture frame that I aged with copper and black paint as it looked too new. I also made a vintage 50s clock out of colour pins.
+
+![Image](access4.jpg)
+(This is an image of all of the wall art.)
+
+I made an old aged cabinent. Most of the drawers are faux but I made a few so that they are left open and various things spill out of them. Plants grow out of a drawer and tea stained papers are stuffed into a couple, consequently, adding another layer of detail and furthering the vintage atmosphere. I also added legs as it was too short in proportain with the other furnature. They are made out of the top of pin heads.
+
+![Image](access5.jpg)
+(This is an image of the cabinent.)
+
+I also made a velvet ottoman. Using the red velevet from a broken scrunchie I created an ottoman that also has the dimples in the cushion like the armchair. Although they are differing materials and colours, this element connects the two and creates more spatial unity throughout the space.
+
+![Image](access6.jpg)
+(This is an image of the velvet ottoman.)
+
+I also made a rug. I wanted an egyptian rug which i could have bought online but it would not have arrived in time. So, i had to use the materials available to me. I found a tapestry scrap fabric and cut it to size. i did a blanket stitch around the edges to clean the up and prevent fraying. I also added a fringe to both sides with embroidery thread. The rug also incorporates bith colours from the ottoman and armchair which continues to unify the accessories. Although it was not exactly as I intended, I still am very much happy with this rug and how it finishes the room.
+
+![Image](access7.jpg)
+(Above is an image of my handmade rug.)
+
+To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. i painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. I also made the fire part. Created on a wooden stock base, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing using on the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later.
+
+![Image](access8.jpg)
+(This is an image of the fireplace in progress.)
+
+![Image](access9.jpg)
+(Above is an image of the final fireplace piece.)
+
+![Image](access10.jpg)
+(This is an image of the fire in construction.)
+
+![Image](access11.jpg)
+(Above is an of the final fire part.)
+
+![Image](access12.jpg)
+(This is an image of the final fireplace with the fire installed.)
 
 ### Narrative to Go Along With Scene ###
 Below is a draft of the short narrative that will coincide with the miniature scene. However, the ideas may develop further in my final project and the writing will be more polished.
