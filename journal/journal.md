@@ -557,6 +557,29 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 
 ![Image](access12.jpg)
 (This is an image of the final fireplace with the fire installed.)
+### Door Interaction Construction
+
+### Window Curtain Interaction Construction
+Firstly, I had to creat window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
+
+![Image](window1.jpg)
+(This is an image of the window panes.)
+
+I then added a curtain rod and curtains made out of a painted skewer, jump rings and fabric. I had to use a very light fabric to ensure the fan would blow it enough. I also glued a small piece of fly screen over the vent in the ground. I was going to cut slats but to ensure maximum air to flow through I chose fly screen.
+
+![Image](window2.jpg)
+(This is an image of the final window with the curtains.)
+
+I then tested the fan with the curtains.
+
+![Image](window3.jpg)
+(Above is an image of this test .)
+
+
+
+### Final Wiring
+
+
 
 ### Narrative to Go Along With Scene ###
 Below is a draft of the short narrative that will coincide with the miniature scene. However, the ideas may develop further in my final project and the writing will be more polished.
@@ -579,6 +602,8 @@ Walking over to the window to close it, I hear a sudden hum of a motor. A sweet 
 ##### Page 5 #####
 ###### Interaction: Fireplace turns on
 The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too creepy for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
+
+### Construction of Physical Book
 
 
 
