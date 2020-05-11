@@ -342,13 +342,13 @@ The code I used when testing a switch with the speaker is at:
 (This an image of the unsuccessful speaker.)
 
 Consequently, this method was not viable. I could use this method for the lights, fan, and record player as they just utilise motors and leds which do not need specific timing.
-I did not need to test the fan as it uses the smae tech as the record player, but I did test the leds just to work out the wiring.
+I did not need to test the fan as it uses the smae tech as the record player, but I did test the leds just to work out the wiring. I used the same code I used when testing the record player with the switch. 
 
 ![Image](tstest7.jpg)
 (This is an image of the led test.)
 
-To find a better way for the servo and speaker, I looked more into the animated book tutorial and a paper piano tutorial.
-()
+To find a better way for the servo and speaker, I looked more into the animated book tutorial and a paper piano tutorial. Below are links to the resourses that helped me to understand the code, wire the connections, and create a successful sensor.
+(https://make.techwillsaveus.com/microbit/activities/animated-microbook)
 (https://www.youtube.com/watch?v=6a_rykLlN3k)
 (https://www.youtube.com/redirect?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj%2Fview%3Fusp%3Dsharing&event=video_description&v=6a_rykLlN3k&redir_token=sYNToBw5rJ493TFrbEfendbpNSF8MTU4OTI4MTEyOUAxNTg5MTk0NzI5)
 
