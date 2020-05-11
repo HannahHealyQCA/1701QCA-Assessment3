@@ -359,13 +359,14 @@ I first adapted the code in the animated book tutorial. However, through this me
 ![Image](tstest8.jpg)
 (This is an image of a test that triggers the microbit LEDs.)
 
-Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, the LEDs would just flash randomly and the microit got very hot. I tried it again the next day and it worked perfectly. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
+Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, it was erradic and the microit got very hot. I tried it again the next day and it worked basically perfectly. When I touched the two aluminium pieces the speaker crackled and when i realeased them the volume decreased. Although this may contribute to the ambiance as record players do crackle, I needed the volume to be at full capacity. I notices that bothe the speaker and one of the sensors were on pin 0 so i changed the sensor to a different pin and that fixed the problem. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
 
 ![Image](tscode6.jpg)
 (this is the adapted code.)
 
 ![Image](tstest9.jpg)
 (Above is an image of the test.)
+
 
 I also tested this method with the servo.
 
