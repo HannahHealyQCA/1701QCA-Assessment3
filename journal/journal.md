@@ -353,7 +353,7 @@ To find a better way for the servo and speaker, I looked more into the animated 
 (https://www.youtube.com/redirect?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj%2Fview%3Fusp%3Dsharing&event=video_description&v=6a_rykLlN3k&redir_token=sYNToBw5rJ493TFrbEfendbpNSF8MTU4OTI4MTEyOUAxNTg5MTk0NzI5)
 
 I first adapted the code in the animated book tutorial. However, through this method I could only get it to work when directly touching the microbit pins with aluminium foil. I tried using alligator clips to expand the connection but it did not work. This was not useable as I could not have the pages of the book directly touching the microbit It would be messy with exposed wires and I needed the microbit to have access to other tech.
-![Image](tscode5.png)
+![Image](tscode5.PNG)
 (This is the adapted code I created.)
 
 ![Image](tstest8.jpg)
