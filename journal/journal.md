@@ -563,12 +563,14 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 
 ![Image](access12.jpg)
 (This is an image of the final fireplace with the fire installed.)
+
 ### Door Interaction Construction
 The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. 
 For the servo, I added an attachment for the magnet.
 
 ![Image](attach.jpg)
 (Above is the servo attachment.)
+
 I had to complete many tests to get the servo working correctly. I first tried using the servo block code but this would only open the door but wood not close it. So, i copied the code from my automatic plant waterer and that did the trick. However, the open and close cycle kept repeating so. I needed the door to close and stay closed as if it was open it would block the view to the window for the next interaction. 
 Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels and a ornate door knob. 
 
