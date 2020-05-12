@@ -501,6 +501,11 @@ I also added a wooden floor. I cut and stained each individual wooden stick and 
 ![Image](wood5.jpg)
 (This is an image of the wooden floor.)
 
+I included a wooden railing on teh platform as an extra detail to further the realism. It is made from wooden sticks and dowels.
+
+![Image](wood6.jpg)
+(Above is an image of the wooden railing.)
+
 
 ### Construction of Accessories ###
 I made many accessories for the room. I wanted to develop the vintage feel more and make it seem as if you have really just walked into someone's house.
@@ -554,17 +559,24 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 (This is an image of the fire in construction.)
 
 ![Image](access11.jpg)
-(Above is an of the final fire part.)
+(Above is an image of the final fire part.)
 
 ![Image](access12.jpg)
 (This is an image of the final fireplace with the fire installed.)
 ### Door Interaction Construction
-I had to complete many tests to get the servo working correctly. 
-
+The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. 
 For the servo, I added an attachment for the magnet.
 
 ![Image](attach.jpg)
 (Above is the servo attachment.)
+I had to complete many tests to get the servo working correctly. I first tried using the servo block code but this would only open the door but wood not close it. So, i copied the code from my automatic plant waterer and that did the trick. However, the open and close cycle kept repeating so. I needed the door to close and stay closed as if it was open it would block the view to the window for the next interaction. 
+Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels and a ornate door knob. 
+
+![Image](finaldoor.jpg)
+(This is the final door.)
+
+Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction.
+
 
 ### Window Curtain Interaction Construction
 Firstly, I had to create window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
