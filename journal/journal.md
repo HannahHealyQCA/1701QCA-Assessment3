@@ -338,7 +338,7 @@ I then tried adding the speaker. Because the code had the song when the microbit
 The code I used when testing a switch with the speaker is at:
 (https://makecode.microbit.org/_5yt9kHP4XRbv)
 
-![Image](tstest6.png)
+![Image](tstest6.jpg)
 (This an image of the unsuccessful speaker.)
 
 Consequently, this method was not viable. I could use this method for the lights, fan, and record player as they just utilise motors and leds which do not need specific timing.
@@ -559,9 +559,15 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 ![Image](access12.jpg)
 (This is an image of the final fireplace with the fire installed.)
 ### Door Interaction Construction
+I had to complete many tests to get the servo working correctly. 
+
+For the servo, I added an attachment for the magnet.
+
+![Image](attach.jpg)
+(Above is the servo attachment.)
 
 ### Window Curtain Interaction Construction
-Firstly, I had to creat window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
+Firstly, I had to create window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
 
 ![Image](window1.jpg)
 (This is an image of the window panes.)
