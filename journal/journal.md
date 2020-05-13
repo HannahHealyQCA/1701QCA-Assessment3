@@ -377,6 +377,23 @@ I also tested this method with the servo.
 (Above is an image of the test.)
 
 With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
+After deciding on these two methods, i did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the cycle. After some assistance, I was able to simplify my code and resolve the problem. This is the code I tried to use but was unsuccessful.
+
+![Image](Capture.PNG)
+(This is one version of the unsuccessful code.)
+
+![Image](2.PNG)
+(This is another version that I tried to use but was unsuccessful.)
+
+This is the final code that resolved that issue.
+
+![Image](finalservocode.PNG)
+(This is the final code for the servo.)
+
+Through this process I also was able to simplify the code for the speaker.
+
+![Image](tscode8.PNG)
+(This is the adapted code.)
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
