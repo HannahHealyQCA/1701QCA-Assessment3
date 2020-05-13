@@ -368,17 +368,15 @@ The adapted code can be found at this link:
 (Above is an image of the test.)
 
 
-I also tested this method with the servo.
+I also tested this method with the servo.I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the cycle. After some assistance, I was able to simplify my code and resolve the problem. 
 
 ![Image](tscode7.PNG)
-(This is the adapted code.)
+(This is one version of code that was unsuccessful.)
 
 ![Image](tstest10.jpg)
 (Above is an image of the test.)
 
-With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
-After deciding on these two methods, i did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the cycle. After some assistance, I was able to simplify my code and resolve the problem. This is the code I tried to use but was unsuccessful.
-
+This is the code I tried to use but was unsuccessful.
 ![Image](Capture.PNG)
 (This is one version of the unsuccessful code.)
 
@@ -393,7 +391,9 @@ This is the final code that resolved that issue.
 Through this process I also was able to simplify the code for the speaker.
 
 ![Image](tscode8.PNG)
-(This is the adapted code.)
+(This is the final code for the speaker.)
+
+With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
@@ -482,6 +482,8 @@ This is an image of the attempt to add a touch sensor. However, the wires and mi
 (This is my attempt to add a touch sensor to the final record player with the speaker.)
 
 I have successfully created a working record player with a motor and speaker. However, I now need to work on the input touch sensors that will trigger it to turn on and play the song.
+
+After some more research and prototyping, I have successfully found a reliable option that plays the speaker when a sensor is triggered. More details about this process in the 'touch sensor testing' section.
 
 ### Construction of Wooden Room ###
 
@@ -582,19 +584,20 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 (This is an image of the final fireplace with the fire installed.)
 
 ### Door Interaction Construction
-The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. 
-For the servo, I added an attachment for the magnet.
+The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. The servo will open all close the door through changing the servo to different angles.
+For the servo, I added an attachment for the magnet. 
 
-![Image](attach.jpg)
-(Above is the servo attachment.)
+I had some troubles getting the servo to work with the sensor. After some assitance, I was able to simplify the code and resolve the issue. Below is the final code for this individual interaction.
+![Image](finalservocode.PNG)
+(This is the adapted code.)
 
-I had to complete many tests to get the servo working correctly. I first tried using the servo block code but this would only open the door but wood not close it. So, i copied the code from my automatic plant waterer and that did the trick. However, the open and close cycle kept repeating so. I needed the door to close and stay closed as if it was open it would block the view to the window for the next interaction. 
-Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels and a ornate door knob. 
+Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels and a ornate door knob. 
 
 ![Image](finaldoor.jpg)
 (This is the final door.)
 
-Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction.
+
+Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sesnor testing' section. 
 
 
 ### Window Curtain Interaction Construction
@@ -619,7 +622,7 @@ I then tested the fan with the curtains.
 
 
 
-### Narrative to Go Along With Scene ###
+### Narrative to Go Along With Scene: DRAFT ###
 Below is a draft of the short narrative that will coincide with the miniature scene. However, the ideas may develop further in my final project and the writing will be more polished.
 ##### Page 1 #####
 ###### Interaction: Door Opens with Servo
@@ -641,7 +644,32 @@ Walking over to the window to close it, I hear a sudden hum of a motor. A sweet 
 ###### Interaction: Fireplace turns on
 The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too creepy for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
 
+
+
+### Narrative to Go Along With Scene: FINAL ###
+Below is the final version of the short narrative that will coincide with the miniature scene. 
+##### Page 1 #####
+###### Interaction: Door Opens with Servo
+The door creaked as I opened it and a musty smelled released. The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  And they give me the responsibility of cleaning out their apartment because I am the closest living relative, seems sketchy, I thought as took in my bizarre surroundings. 
+
+##### Page 2 #####
+###### Interaction: Lights turn on
+Greeted by a dim room, the room is suddenly illuminated by atmospheric lighting. Oh, the lights must be on motion sensor, I thought to myself with a shocked expression. Although it startled me, the room was cosy, it told a story. The room had character, it was as if someone was still living there, eerie. 
+
+##### Page 3 #####
+###### Interaction: Wind blows through window and disturbs curtains
+Stepping into the room I notice a cold breeze through an open window. Making goosebumps form on my skin, the quaint curtains gently blew in the cold night breeze. 
+
+##### Page 4 #####
+###### Interaction: Record player spins and begins playing 'I Can't Help Falling in Love With You By ELvis Presley'
+Walking over to the window to close it, I hear a sudden hum of a motor. A sweet song begins to play, making me stand still, frozen in shock. Why was this stuff happening? I didn't feel threatened but I sure was suprised.
+
+##### Page 5 #####
+###### Interaction: Fireplace turns on
+The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
+
 ### Construction of Physical Book
+Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them. 
 
 
 
@@ -680,5 +708,7 @@ What might be an interesting extension of this project? In what other contexts m
 The elements of my project that I beleive to be most successful are the immersive detail and ambiance of the room, how the room electronically comes alive and the experience of the book translated into a physical space. I really enjoyed this project and how I developed my idea so much through the design process. I began with just wanting to create  miniature scene that includes movement and sound. However, through the double diamond process, individual ideation and peer input, I have greatly expanded this base idea and created a successful and purposeful project.
 
 On the contrary, I did encounter many setbacks and hurdles within the process which introduces some parts of my project which could be improved. I really struggled finding a sufficient sensor input that was reliable but also descrete in the pages of the book. But my downfall was immediately going for a complicated tech solution of capacitive touch sensors which were too unreliable. If I had gone with a much more simpler option first like circuit switches I would have reduced this process significantly. Thus, giving me more time to work on the aesthetic of the book and to streamline or even advance each interaction. 
+
+There are many elements of my project that are novel. Overall, I have not been able to find something exactly like my project. i have found iterations of miniature models that use electronics but do not incorporate the larger narrative or physical book and on the other hand, I have found interactive books that do not involve a physical miniature space (as seen in my related projects section). By combining theses two different projects I have created a novel experience. I wanted to create something that combines the feeling of physically reading a book with a visual physical expereince, which I had never seen before. Rather than digitally creating visuals that tell a story or two dimensionally visualising a story in a physical space, I aimed to created a experience that visually narrates a physical book in a physical space. I wanted to create a very unique expereince and truly bring the reader into the story. I often find myself getting lost in the words on a page and not truly imaginatively visualising what is happening, so I wanted to elucidate a story in an actual physical space. ALthough in our modern world there are other forms of visual entertainment such as movies and books, I created a whole new experience that is more complex, engaging and immersive and combines the visual component of movies but alters it to be three dimensional and the narrative of a book.
 
 An interesting extension of this project would be to instead of having a book record my voice to play with it. This changes the experience greatly as it transitions from more of a physical realm moving towards more of a strictly visual space. This of course introduces the great debate of books vs movies/audio books and the difference between holding a physical book and reducing entertainment as just a visually stimulating experience. I like the incorporation of the book as it relates the physical space to a physical book and makes the experience more authentic. If there was basically no human interaction, why not just watch a movie. I guess this is interesting because you can see the three dimensional space but reduces the relatability as I wanted to make it seem as if you were in the scene yourslef, which accounts for the lack of characters in the physical space and the first person story.
