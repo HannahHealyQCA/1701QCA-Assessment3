@@ -368,7 +368,7 @@ The adapted code can be found at this link:
 (Above is an image of the test.)
 
 
-I also tested this method with the servo.I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the cycle. After some assistance, I was able to simplify my code and resolve the problem. 
+I also tested this method with the servo.I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the servo cycle. After some assistance, I was able to simplify my code and resolve the problem. 
 
 ![Image](tscode7.PNG)
 (This is one version of code that was unsuccessful.)
@@ -383,7 +383,7 @@ This is the code I tried to use but was unsuccessful.
 ![Image](2.PNG)
 (This is another version that I tried to use but was unsuccessful.)
 
-This is the final code that resolved that issue.
+This is the final code that resolved that issue. after much problem solving I was finally able to make the servo do the 0 to 110 cycle once when the sensors were touched.
 
 ![Image](finalservocode.PNG)
 (This is the final code for the servo.)
@@ -394,6 +394,87 @@ Through this process I also was able to simplify the code for the speaker.
 (This is the final code for the speaker.)
 
 With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
+
+### Construction of Wooden Room ###
+
+After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurements for the individual pieces I needed to cut from the 3mm ply wood.
+
+![Image](wood1.png)
+
+(This is an image of the template.)
+
+Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the according spots to thread the wires under the scene and to the microbit. 
+
+I also added a platform balcony with steps. This is because I didn't want the room just to be a flat open space. I wanted to make it look realistic and add some more dimension. This balcony with steps also gave more room for technology underneath. I am going to fill the steps in with wooden sticks. On this platform is a window, and underneath is a hole that   piece of fly screen will be installed into. This vent will allow wind from a small fan attached to a motor underneath to blow through and move the curtains. I was going to add an access hole with hinges on the side to access the technology but instead the balcony will be a removeable piece.
+I also cut a piece for a fireplace that slots into the left hand corner. 
+
+After measuring and cutting the wood, I began to arrange the pieces and glue them with wood glue. I used masking tape to secure the pieces while they dry. I also filled in the steps with wooden sticks.
+
+
+![Image](wood2.png)
+
+(This is an image of the glueing of the room in progress.)
+
+
+![Image](wood3.png)
+
+(Above is an image of the glueing of the balcony in progress.)
+
+
+![Image](wood4.png)
+
+(This is the final basic construction of the room.)
+
+I also added a wooden floor. I cut and stained each individual wooden stick and then installed them into the floor. Although it was alot of work, I like the effect and contributed to the vintage feel. 
+
+![Image](wood5.jpg)
+(This is an image of the wooden floor.)
+
+I included a wooden railing on teh platform as an extra detail to further the realism. It is made from wooden sticks and dowels.
+
+![Image](wood6.jpg)
+(Above is an image of the wooden railing.)
+
+
+### Construction of Accessories ###
+I made many accessories for the room. I wanted to develop the vintage feel more and make it seem as if you have really just walked into someone's house.
+
+I made a hanging plant by spiraling string around a mold and glueing in fake plants to emulate the look of an overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
+![Image](access1.jpg)
+
+(This is an image of a handmade hanging plant).
+
+I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really liked to use mustard coloured velvet. I used cardbord and sheets of foam. I also added dimples in the cushion with a needle and thread and beads. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
+
+![Image](access2.png)
+
+(This is an image of the armchair in whilst in the process of being created).
+
+![Image](access3.jpg)
+
+(This is an image of my final armchair.)
+
+I really like this piece as it is an eyecatching element that gives off a 70's vintage feel. I am very happy with how realistic it turned out.
+
+I also made a few different art pieces to put on the walls as I didn't want to leave them bare. I created a shadow box with 3D butterflies inside. I also made wall art out of a stamp that I put a border on and a vintage sticker. I used a miniture frame that I aged with copper and black paint as it looked too new. I also made a vintage 50s clock out of colour pins.
+
+![Image](access4.jpg)
+(This is an image of all of the wall art.)
+
+I made an old aged cabinent. Most of the drawers are faux but I made a few so that they are left open and various things spill out of them. Plants grow out of a drawer and tea stained papers are stuffed into a couple, consequently, adding another layer of detail and furthering the vintage atmosphere. I also added legs as it was too short in proportain with the other furnature. They are made out of the top of pin heads.
+
+![Image](access5.jpg)
+(This is an image of the cabinent.)
+
+I also made a velvet ottoman. Using the red velevet from a broken scrunchie I created an ottoman that also has the dimples in the cushion like the armchair. Although they are differing materials and colours, this element connects the two and creates more spatial unity throughout the space.
+
+![Image](access6.jpg)
+(This is an image of the velvet ottoman.)
+
+I also made a rug. I wanted an egyptian rug which i could have bought online but it would not have arrived in time. So, i had to use the materials available to me. I found a tapestry scrap fabric and cut it to size. i did a blanket stitch around the edges to clean the up and prevent fraying. I also added a fringe to both sides with embroidery thread. The rug also incorporates bith colours from the ottoman and armchair which continues to unify the accessories. Although it was not exactly as I intended, I still am very much happy with this rug and how it finishes the room.
+
+![Image](access7.jpg)
+(Above is an image of my handmade rug.)
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
@@ -485,88 +566,11 @@ I have successfully created a working record player with a motor and speaker. Ho
 
 After some more research and prototyping, I have successfully found a reliable option that plays the speaker when a sensor is triggered. More details about this process in the 'touch sensor testing' section.
 
-### Construction of Wooden Room ###
-
-After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurements for the individual pieces I needed to cut from the 3mm ply wood.
-
-![Image](wood1.png)
-
-(This is an image of the template.)
-
-Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the according spots to thread the wires under the scene and to the microbit. 
-
-I also added a platform balcony with steps. This is because I didn't want the room just to be a flat open space. I wanted to make it look realistic and add some more dimension. This balcony with steps also gave more room for technology underneath. I am going to fill the steps in with wooden sticks. On this platform is a window, and underneath is a hole that   piece of fly screen will be installed into. This vent will allow wind from a small fan attached to a motor underneath to blow through and move the curtains. I was going to add an access hole with hinges on the side to access the technology but instead the balcony will be a removeable piece.
-I also cut a piece for a fireplace that slots into the left hand corner. 
-
-After measuring and cutting the wood, I began to arrange the pieces and glue them with wood glue. I used masking tape to secure the pieces while they dry.
 
 
-![Image](wood2.png)
+### Fireplace Interaction Construction ###
 
-(This is an image of the glueing of the room in progress.)
-
-
-![Image](wood3.png)
-
-(Above is an image of the glueing of the balcony in progress.)
-
-
-![Image](wood4.png)
-
-(This is the final basic construction of the room.)
-
-I also added a wooden floor. I cut and stained each individual wooden stick and then installed them into the floor. Although it was alot of work, I like the effect and contributed to the vintage feel. 
-
-![Image](wood5.jpg)
-(This is an image of the wooden floor.)
-
-I included a wooden railing on teh platform as an extra detail to further the realism. It is made from wooden sticks and dowels.
-
-![Image](wood6.jpg)
-(Above is an image of the wooden railing.)
-
-
-### Construction of Accessories ###
-I made many accessories for the room. I wanted to develop the vintage feel more and make it seem as if you have really just walked into someone's house.
-
-I made a hanging plant by spiraling string around a mold and glueing in fake plants to emulate the look of an overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
-![Image](access1.jpg)
-
-(This is an image of a handmade hanging plant).
-
-I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really liked to use mustard coloured velvet. I used cardbord and sheets of foam. I also added dimples in the cushion with a needle and thread and beads. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
-
-![Image](access2.png)
-
-(This is an image of the armchair in whilst in the process of being created).
-
-![Image](access3.jpg)
-
-(This is an image of my final armchair.)
-
-I really like this piece as it is an eyecatching element that gives off a 70's vintage feel. I am very happy with how realistic it turned out.
-
-I also made a few different art pieces to put on the walls as I didn't want to leave them bare. I created a shadow box with 3D butterflies inside. I also made wall art out of a stamp that I put a border on and a vintage sticker. I used a miniture frame that I aged with copper and black paint as it looked too new. I also made a vintage 50s clock out of colour pins.
-
-![Image](access4.jpg)
-(This is an image of all of the wall art.)
-
-I made an old aged cabinent. Most of the drawers are faux but I made a few so that they are left open and various things spill out of them. Plants grow out of a drawer and tea stained papers are stuffed into a couple, consequently, adding another layer of detail and furthering the vintage atmosphere. I also added legs as it was too short in proportain with the other furnature. They are made out of the top of pin heads.
-
-![Image](access5.jpg)
-(This is an image of the cabinent.)
-
-I also made a velvet ottoman. Using the red velevet from a broken scrunchie I created an ottoman that also has the dimples in the cushion like the armchair. Although they are differing materials and colours, this element connects the two and creates more spatial unity throughout the space.
-
-![Image](access6.jpg)
-(This is an image of the velvet ottoman.)
-
-I also made a rug. I wanted an egyptian rug which i could have bought online but it would not have arrived in time. So, i had to use the materials available to me. I found a tapestry scrap fabric and cut it to size. i did a blanket stitch around the edges to clean the up and prevent fraying. I also added a fringe to both sides with embroidery thread. The rug also incorporates bith colours from the ottoman and armchair which continues to unify the accessories. Although it was not exactly as I intended, I still am very much happy with this rug and how it finishes the room.
-
-![Image](access7.jpg)
-(Above is an image of my handmade rug.)
-
-To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. i painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. I also made the fire part. Created on a wooden stock base, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing using on the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later.
+I also made the fire part. Created on a wooden stock base, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing using on the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later.To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. i painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. 
 
 ![Image](access8.jpg)
 (This is an image of the fireplace in progress.)
@@ -591,15 +595,13 @@ I had some troubles getting the servo to work with the sensor. After some assita
 ![Image](finalservocode.PNG)
 (This is the adapted code.)
 
-Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels, an ornate door knob and wooden railing on the platform. 
+Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. I also encountered hurdles when guleing the magnet to the door. I tried using PVA glue, hot glue, two part epoxy glue but due to the string magnetic force, it kept coming off. I ended up using wood glue and leaving it to dry for a long time.  Aesthetically I also stained the wood, added wooden panels, an ornate door knob and wooden railing on the platform. 
 
 ![Image](finaldoor.jpg)
 (This is the final door.)
 
 ![Image](finaldoorarea.jpg)
 (This is the final door.)
-
-
 
 Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sensor testing' section. 
 
@@ -610,7 +612,7 @@ Firstly, I had to create window panes. I used clear plastic, wooden skewers, bla
 ![Image](window1.jpg)
 (This is an image of the window panes.)
 
-I then added a curtain rod and curtains made out of a painted skewer, jump rings and fabric. I had to use a very light fabric to ensure the fan would blow it enough. I also glued a small piece of fly screen over the vent in the ground. I was going to cut slats but to ensure maximum air to flow through I chose fly screen.
+I then added a curtain rod and curtains made out of a painted skewer, jump rings and fabric. I had to use a very light fabric to ensure the fan would blow it enough. I hand sewed a hem to prevent freying but I did leave some rough edges to contribute to the abandoned look. I also glued a small piece of fly screen over the vent in the ground. I was going to cut slats but to ensure maximum air to flow through I chose fly screen.
 
 ![Image](window2.jpg)
 (This is an image of the final window with the curtains.)
@@ -620,9 +622,40 @@ I then tested the fan with the curtains.
 ![Image](window3.jpg)
 (Above is an image of this test .)
 
+### Wall Light Interaction ###
+In order to fabricate the lights, I created three different wall sonces or lamps. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
+
+![Image](light1.jpg)
+(Above is an image of the final installed light.)
+
+The second light I wanted to make is a vintage coloured led light lamp (like in my mood board). I wanted to use a clear dome from a gumball machine capsule but the one I had was just too big an unproportinate with my room. Instead i used the top of a toothpaste tube painted in various metals and wavy clear plastic from a battery package coloured different colours with pernament marker. I used a straw painted silver to mimic an industrial pipe to mount the lamp. The led is thread through the staw and through a drilled hole in the wall. The lamp is mounted as a reading lamp next to the armchair.
+
+
+![Image](light2.jpg)
+(This is an image of the final light.)
+
 
 
 ### Final Wiring
+After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. 
+
+Before soldering the connections, I taped/twisted the wiires to test that everything was working.
+![Image](wire1.jpg)
+(Above is the wiring test.)
+
+To reinforce and ensure the connections were secure, I also soldered them.
+
+![Image](wire2.jpg)
+(Above is an image of the soldering in process.)
+
+![Image](wire3.jpg)
+(This is the final wiring.)
+ 
+After soldering, I threaded everything through the fabricated form, securing wires with electrical tape and drilling holes to thread wires through.
+ 
+![Image](wire4.jpg)
+(This is an image of the fabricated wires.)
+
 
 
 
@@ -648,6 +681,9 @@ Walking over to the window to close it, I hear a sudden hum of a motor. A sweet 
 ###### Interaction: Fireplace turns on
 The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too creepy for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
 
+### Construction of Physical Book
+Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them. 
+I handwrote the narrative in the book as I do not have access to a printer. Although this apsect is not ideal, i think it gives it an authentic feel as if your actually reading someone's story or diary.
 
 
 ### Narrative to Go Along With Scene: FINAL ###
@@ -671,9 +707,6 @@ Walking over to the window to close it, I hear a sudden hum of a motor. A sweet 
 ##### Page 5 #####
 ###### Interaction: Fireplace turns on
 The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
-
-### Construction of Physical Book
-Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them. 
 
 
 
