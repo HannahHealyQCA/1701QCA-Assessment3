@@ -585,19 +585,23 @@ To complete the aesthetic features of the fireplace, I added a shelf and brick d
 
 ### Door Interaction Construction
 The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. The servo will open all close the door through changing the servo to different angles.
-For the servo, I added an attachment for the magnet. 
+For the servo, I added an attachment for the magnet. The servo is under the floor but the magnetic force penetrates through the 3mm play wood.
 
 I had some troubles getting the servo to work with the sensor. After some assitance, I was able to simplify the code and resolve the issue. Below is the final code for this individual interaction.
 ![Image](finalservocode.PNG)
 (This is the adapted code.)
 
-Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels and a ornate door knob. 
+Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. Aesthetically I also stained the wood, added wooden panels, an ornate door knob and wooden railing on the platform. 
 
 ![Image](finaldoor.jpg)
 (This is the final door.)
 
+![Image](finaldoorarea.jpg)
+(This is the final door.)
 
-Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sesnor testing' section. 
+
+
+Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sensor testing' section. 
 
 
 ### Window Curtain Interaction Construction
