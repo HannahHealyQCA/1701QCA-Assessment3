@@ -477,14 +477,14 @@ I also made a rug. I wanted an egyptian rug which i could have bought online but
 (Above is an image of my handmade rug.)
 
 ### Record Player Construction ###
-I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
+To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
 
 ![Image](rp1.png)
 
 (This is an image of the main components of the record player.)
 
 After adding small metal wire details, a miniature hinge and staining the wood, I also created a few different vinyl record iterations to make sure it spun evenly on the motor.
-The first record was made just out of clear plastic painted black with a simple hole. I noticed this version did not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. The motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft which improved the spinning movement but it still was not spinning consistently without stopping.
+The first record was made just out of clear plastic painted black with a simple hole. I  used glue and a paintbrush to creat texture on the record. I noticed this version did not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. The motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft which improved the spinning movement but it still was not spinning consistently without stopping.
 
 ![Image](rp2.png)
 
