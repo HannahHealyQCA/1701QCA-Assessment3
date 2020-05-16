@@ -599,7 +599,8 @@ I had some troubles getting the servo to work with the sensor. After some assita
 ![Image](finalservocode.PNG)
 (This is the adapted code.)
 
-Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. I also encountered hurdles when guleing the magnet to the door. I tried using PVA glue, hot glue, two part epoxy glue but due to the string magnetic force, it kept coming off. I ended up using wood glue and leaving it to dry for a long time.  Aesthetically I also stained the wood, added wooden panels, an ornate door knob and wooden railing on the platform. 
+Also during this test process, the door's hinge mechanism of a skewer within drilled holes in the door frame was damaged and was no longer reliable. Consequently, I added brass hinges instead. I also encountered hurdles when guleing the magnet to the door. I tried using PVA glue, hot glue, two part epoxy glue but due to the strong magnetic force, it kept coming off. 
+Aesthetically I also stained the wood, added wooden panels, an ornate door knob and wooden railing on the platform. 
 
 ![Image](finaldoor.jpg)
 (This is the final door.)
@@ -607,6 +608,7 @@ Also during this test process, the door's hinge mechanism of a skewer within dri
 ![Image](finaldoorarea.jpg)
 (This is the final door.)
 
+I kept encountering problems using the magnet method. The door's hinges was not exactly perfect and caused the magnet not remain attached to the magnet underneath the platform. I alos had problems with the magnet detacthing and the srvo falling off. After trying countless different glues, moving the hinges, adding a flat support on the back of the door and even creating a custom plastic attachment for the servo that held the magnet, I had to decide to move on from the magnet idea. Although I was quite invested in the magnets, I was not progressing so I had to try a different method. I then tried attaching the servo arm to the back of the door so that it pushed the door open and close. I also had to add a wire hook that allowed he arm to move as when it opened the door the arm had to have the ability to move.
 Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sensor testing' section. 
 
 
@@ -632,7 +634,7 @@ In order to fabricate the lights, I created three different wall sonces or lamps
 ![Image](light1.jpg)
 (Above is an image of the final installed light.)
 
-The second light I wanted to make is a vintage coloured led light lamp (like in my mood board). I wanted to use a clear dome from a gumball machine capsule but the one I had was just too big an unproportinate with my room. Instead i used the top of a toothpaste tube painted in various metals and wavy clear plastic from a battery package coloured different colours with pernament marker. I used a straw painted silver to mimic an industrial pipe to mount the lamp. The led is thread through the staw and through a drilled hole in the wall. The lamp is mounted as a reading lamp next to the armchair.
+The second light I wanted to make is a vintage coloured led light lamp (like in my mood board). I wanted to use a clear dome from a gumball machine capsule but the one I had was just too big an unproportinate with my room. Instead i used the clear top from a bottle coloured different colours with pernament marker and various glass beads. The led is thread through the glass beads and through a drilled hole in the wall. The lamp is mounted as a reading lamp next to the armchair.
 
 
 ![Image](light2.jpg)
@@ -641,11 +643,11 @@ The second light I wanted to make is a vintage coloured led light lamp (like in 
 
 
 ### Final Wiring
-After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. 
+After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual part so it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. I used the breadboard but also solder where possible so I could have more room to put things in opposite sides.
 
-Before soldering the connections, I taped/twisted the wiires to test that everything was working.
+Before soldering the connections, I made some diagrams as I have a lot of different components to keep track of..
 ![Image](wire1.jpg)
-(Above is the wiring test.)
+(Above is the wiring diagram.)
 
 To reinforce and ensure the connections were secure, I also soldered them.
 
