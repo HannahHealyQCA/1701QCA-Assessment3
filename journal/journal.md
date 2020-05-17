@@ -608,8 +608,20 @@ Aesthetically I also stained the wood, added wooden panels, an ornate door knob 
 ![Image](finaldoorarea.jpg)
 (This is the final door.)
 
-I kept encountering problems using the magnet method. The door's hinges was not exactly perfect and caused the magnet not remain attached to the magnet underneath the platform. I alos had problems with the magnet detacthing and the srvo falling off. After trying countless different glues, moving the hinges, adding a flat support on the back of the door and even creating a custom plastic attachment for the servo that held the magnet, I had to decide to move on from the magnet idea. Although I was quite invested in the magnets, I was not progressing so I had to try a different method. I then tried attaching the servo arm to the back of the door so that it pushed the door open and close. I also had to add a wire hook that allowed he arm to move as when it opened the door the arm had to have the ability to move.
+I kept encountering problems using the magnet method. The door's hinges was not exactly perfect and caused the magnet not remain attached to the magnet underneath the platform. I alos had problems with the magnet detacthing and the srvo falling off. After trying countless different glues, moving the hinges, adding a flat support on the back of the door and even creating a custom plastic attachment for the servo that held the magnet, I had to decide to move on from the magnet idea. Although I was quite invested in the magnets, I was not progressing so I had to try a different method. I then tried attaching the servo arm to the back of the door so that it pushed the door open and close. I also had to add a wire hook that allowed he arm to move as when it opened the door the arm had to have the ability to move. I made this attachment with a scrap peice of plastic and wire screwed into the servo.
 Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sensor testing' section. 
+
+
+![Image](servo1.jpg)
+(This is an image of the attachment i used to push open the door.)
+
+
+![Image](servo2.gif)
+(This is a gif of the door opening from the inside.)
+
+
+![Image](servo3.gif)
+(This is a gif of the door opening from the outside.)
 
 
 ### Window Curtain Interaction Construction
@@ -645,7 +657,7 @@ The second light I wanted to make is a vintage coloured led light lamp (like in 
 ### Final Wiring
 After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual part so it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. I used the breadboard but also solder where possible so I could have more room to put things in opposite sides.
 
-Before soldering the connections, I made some diagrams as I have a lot of different components to keep track of..
+Before soldering the connections, I made some diagrams as I have a lot of different components to keep track of. I made diagrams for each of the different interactions so i could stay organised and hopefully condense confusion.
 ![Image](wire1.jpg)
 (Above is the wiring diagram.)
 
