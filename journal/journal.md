@@ -623,7 +623,7 @@ Finally I was able to get it working smoothly with the touch sensors and I am ve
 ![Image](servo3.gif)
 (This is a gif of the door opening from the outside.)
 
-
+although this interaction is not as streamline and disrete as i would have liked it, i had to adapt to the problems I faced and alter my method appropriately. 
 ### Window Curtain Interaction Construction
 Firstly, I had to create window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
 
@@ -640,6 +640,9 @@ I then tested the fan with the curtains.
 ![Image](window3.jpg)
 (Above is an image of this test .)
 
+When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to.
+
+I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew.
 ### Wall Light Interaction ###
 In order to fabricate the lights, I created three different wall sonces or lamps. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
 
@@ -657,7 +660,7 @@ The second light I wanted to make is a vintage coloured led light lamp (like in 
 ### Final Wiring
 After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual part so it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. I used the breadboard but also solder where possible so I could have more room to put things in opposite sides.
 
-Before soldering the connections, I made some diagrams as I have a lot of different components to keep track of. I made diagrams for each of the different interactions so i could stay organised and hopefully condense confusion.
+Before soldering the connections, I made some diagrams as I have a lot of different components to keep track of. I made diagrams for each of the different interactions so i could stay organised and hopefully condense confusion. When planning the different interactions, I noticed that I had a lot of inputs/outputs connecting to 3V and 0V so i had to use the side rails to make more room for these extra pins.
 ![Image](wire1.jpg)
 (Above is the wiring diagram.)
 
@@ -665,13 +668,28 @@ To reinforce and ensure the connections were secure, I also soldered them.
 
 ![Image](wire2.jpg)
 (Above is an image of the soldering in process.)
+I was going to have the breadboard and microbit under the balcon latform but whilst wiring it was easier to wire everything just next to the room. It is still out of sight but easy to access when testing aspects. 
+
+When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to. This consequently altered my code as I removed the element for the fan. 
+
+
+I used thin ribbon wire on the book and left the wires connected where possible to ensure neatness. I taped the wires to the aluminium switches as I could not solder them because the solder would not adhere to aluminum foil. I also ensured that all wire lead to the spine of the book so that it was neat when turning pages. There are six drilled holes in the platform that the wires are thread to under the room and to the breadboard. The connections were also secured as I glued the back of the pages together.
+
 
 ![Image](wire3.jpg)
+(This is the an image of the book wiring.)
+
+
+![Image](wire4.jpg)
+(This is the holes for the book's wires.)
+
+
+![Image](wire5.jpg)
 (This is the final wiring.)
  
 After soldering, I threaded everything through the fabricated form, securing wires with electrical tape and drilling holes to thread wires through.
  
-![Image](wire4.jpg)
+![Image](wire6.jpg)
 (This is an image of the fabricated wires.)
 
 
