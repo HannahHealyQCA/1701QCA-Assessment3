@@ -579,7 +579,7 @@ After some more research and prototyping, I have successfully found a reliable o
 
 ### Fireplace Interaction Construction ###
 
-I also made the fire part. Created on a wooden stock base, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing using on the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later.To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. i painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. 
+I also made the fire part. The leds are salvaged from some battery operated tea lights so they glow and flicker like real fire. Created on a wooden stock base, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing using on the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later.To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. i painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. 
 
 ![Image](access8.jpg)
 (This is an image of the fireplace in progress.)
@@ -660,7 +660,7 @@ In order to fabricate the lights, I created three different wall sonces or lamps
 ![Image](light1.jpg)
 (Above is an image of the final installed light.)
 
-The second light I wanted to make is a vintage coloured led light lamp (like in my mood board). I wanted to use a clear dome from a gumball machine capsule but the one I had was just too big an unproportinate with my room. Instead i used the clear top from a bottle coloured different colours with pernament marker and various glass beads. The led is thread through the glass beads and through a drilled hole in the wall. The lamp is mounted as a reading lamp next to the armchair.
+The second light I wanted to make is a vintage coloured led light lamp (like in my mood board). I wanted to use a clear dome from a gumball machine capsule but the one I had was just too big an unproportinate with my room. Instead i used the clear top from a bottle coloured different colours with pernament marker and various glass beads. The light is mounted on a thick stiff piece of wire. The lamp is mounted as a reading lamp next to the armchair. the colours on th elamp create coloured reflections hwen in low light, so in my final presentation I am going to have slightly darker light but nothing too dark so that the whole scene's visibility is compromised.
 
 
 ![Image](light2.jpg)
