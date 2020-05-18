@@ -710,7 +710,8 @@ After soldering, I threaded everything through the fabricated form, securing wir
 (This is an image of the fabricated wires.)
 
 ### Construction of Physical Book
-Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. The wires are taped with electrical tape onto the aluminium switches. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them.
+Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. To plan the pages and where each interactin goes, i made a miniature version as a template for the final version. The interaction for each page is wired to the page before it so that when the page is turned from right to left it triggers the interaction and then you read the narrative on the front on the whilst the after the interaction has started. I did it this way as I did not want the audience to read it first and then the action happen, I preferred the action to start happening whilst the audience reads it.
+I included extra pages so the wires can be threaded on the back of each page. The wires are taped with electrical tape onto the aluminium switches. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them.
 
 ![Image](finalbook1.jpg)
 (This is an image of a book page with teh aluminium switch.) 
