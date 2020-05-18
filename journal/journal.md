@@ -692,6 +692,22 @@ After soldering, I threaded everything through the fabricated form, securing wir
 ![Image](wire6.jpg)
 (This is an image of the fabricated wires.)
 
+### Construction of Physical Book
+Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. The wires are taped with electrical tape onto the aluminium switches. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them.
+
+![Image](finalbook1.jpg)
+(This is an image of a book page with teh aluminium switch.) 
+
+
+![Image](finalbook2.jpg)
+(This is an image of the wires taped behind the main pages.)
+
+
+![Image](finalbook3.jpg)
+(This is an image of the drilled holes where the wires come out and connect to the book.)
+
+I handwrote the narrative in the book as I do not have access to a printer. Although this apsect is not ideal, i think it gives it an authentic feel as if your actually reading someone's story or diary.
+A limitation I had is that sometimes the pages touch unintentionally, so for the final showcase I put a pencil between each page to prevent this. ALthough this is not ideal or a prt of the final fabrication, I could not think of a way to stop this problem.
 
 
 
@@ -717,9 +733,9 @@ Walking over to the window to close it, I hear a sudden hum of a motor. A sweet 
 ###### Interaction: Fireplace turns on
 The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too creepy for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
 
-### Construction of Physical Book
-Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. I included extra pages so the wires can be threaded on the back of each page. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them. 
-I handwrote the narrative in the book as I do not have access to a printer. Although this apsect is not ideal, i think it gives it an authentic feel as if your actually reading someone's story or diary.
+
+
+
 
 
 ### Narrative to Go Along With Scene: FINAL ###
