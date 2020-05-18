@@ -643,8 +643,9 @@ I then tested the fan with the curtains.
 When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to.
 
 I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew.
+
 ### Wall Light Interaction ###
-In order to fabricate the lights, I created three different wall sonces or lamps. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
+In order to fabricate the lights, I created three different wall sonces or lamps. I soldered extra wire to each led so I could install it into teh fixtures. I also covered one of the two wires with tape to prevent them touching. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
 
 ![Image](light1.jpg)
 (Above is an image of the final installed light.)
@@ -654,6 +655,12 @@ The second light I wanted to make is a vintage coloured led light lamp (like in 
 
 ![Image](light2.jpg)
 (This is an image of the final light.)
+
+The third is made from a glue bottle lid. It is a bit more modern looking than I would have liked but i had trouble finding things to use as light fixtures.
+
+
+![Image](light3.jpg)
+(Above is an image of the final light.)
 
 
 
@@ -668,7 +675,7 @@ To reinforce and ensure the connections were secure, I also soldered them.
 
 ![Image](wire2.jpg)
 (Above is an image of the soldering in process.)
-I was going to have the breadboard and microbit under the balcon latform but whilst wiring it was easier to wire everything just next to the room. It is still out of sight but easy to access when testing aspects. 
+I was going to have the breadboard and microbit under the balcon latform but whilst wiring it was easier to wire everything just next to the room. It is still out of sight but easy to access when testing aspects. although the wires ook messy it can not be seen very well and the elaborate wiring is needed for this project to function. Where I could I soldered but used the breadboard to connect to the pins, 3V and 0V and connected the record player motor through the transistor on the breadboard. But for the lights I soldered the resistor directly to the circuit.
 
 When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to. This consequently altered my code as I removed the element for the fan. 
 
@@ -676,20 +683,20 @@ When wiring the fan, I noticed that I did not have another transistor. Instead i
 I used thin ribbon wire on the book and left the wires connected where possible to ensure neatness. I taped the wires to the aluminium switches as I could not solder them because the solder would not adhere to aluminum foil. I also ensured that all wire lead to the spine of the book so that it was neat when turning pages. There are six drilled holes in the platform that the wires are thread to under the room and to the breadboard. The connections were also secured as I glued the back of the pages together.
 
 
-![Image](wire3.jpg)
+![Image](finalbook2.jpg)
 (This is the an image of the book wiring.)
 
 
-![Image](wire4.jpg)
+![Image](finalbook3.jpg)
 (This is the holes for the book's wires.)
 
 
-![Image](wire5.jpg)
+![Image](wire3.jpg)
 (This is the final wiring.)
  
 After soldering, I threaded everything through the fabricated form, securing wires with electrical tape and drilling holes to thread wires through.
  
-![Image](wire6.jpg)
+![Image](wire4.jpg)
 (This is an image of the fabricated wires.)
 
 ### Construction of Physical Book
