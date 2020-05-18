@@ -394,7 +394,7 @@ This is the final code that resolved that issue. after much problem solving I wa
 
 Through this process I also was able to simplify the code for the speaker.
 
-![Image](tscode8.PNG)
+![Image](finalspeakercodee.PNG)
 (This is the final code for the speaker.)
 
 With the consideration of this extensive testing, I have definitively decided on these two different methods: simple switches for the motors and LEDs, aluminium pin touching sensors for the servo and speaker. This is because they are the most reliable, successful and viable. Therefore through this journey of testing I have been able to narrow down the best option for my project. 
