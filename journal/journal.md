@@ -225,7 +225,7 @@ Now that I knew the interactions and overall look, I began making a material lis
 (This is an image of my initial material list).
 
 #### Description of Look and Intentions ####
-To go along with the story, the room may look a little bit abandoned with overgrown plants and peeling wallpaper. There will be a platform underneath the whole room and a smaller platform with steps in front of the window (more about this the construction of the wooden form). The walls will be ardorned with frames and different posters. Overall, everything will look substantially realistic whilst also give a vintage feel.
+To go along with the story, the room may look a little bit abandoned with overgrown plants. There will be a platform underneath the whole room and a smaller platform with steps in front of the window (more about this the construction of the wooden form). The walls will be ardorned with frames and different posters. Overall, everything will look substantially realistic whilst also give a vintage feel.
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
 
 ### Interaction flowchart ###
@@ -273,7 +273,7 @@ First I tried adapting these tutorials:
 
 *https://makecode.microbit.org/projects/banana-keyboard*
 
-I made it so that when you touch ground and P1, the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried using alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
+I made it so that when you touch ground and P1, the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried using alligator clips connected to aluminium foil instead of fruit (like in the tutorial) but this was even more unreliable.
 
 This is the code I used:
 
@@ -307,8 +307,7 @@ The code I used within this iteration can be found at this link:
 ![Image](tstest3.png)
 
 (This is an image of the successful test of the capacitive touch sensor.)
-
-Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options so this apsect may change in the final execution.
+As this was the most reliable option I had encountered, I tested it within my specific conext: within a book and with multiple sensors.  
 To further test this option I tried adding another touch sensor by duplicating the code. 
 The code I used can be found through this link: 
 *https://makecode.microbit.org/_LYTRJKYOk1Xy*
@@ -329,7 +328,8 @@ I also prototyped the book layout with the sensors. If I were to choose this tou
 
 (This is an image of the book in action.)
 
-I need to continue my research on touch sensors. But this is the most successful option so far, although I do have some trouble connecting it to different outputs (below). Consequently, I need to continue prototyping and conducting research either to polish this option or find alternatives.
+
+
 
 As this method was too problematic to continue with, I went for a more simpler method of just a switch made out of aluminium foil. With a fragmented aluminium strip on one side and a piece of aluminium that completes the circuit on the other the side of the page, when the pages are turned it can close the circuit. I tested this first with the motor in the record player which worked successfully without any unreliability. 
 ![Image](tscode3.PNG)
@@ -373,6 +373,7 @@ The adapted code can be found at this link:
 
 
 I also tested this method with the servo.I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the servo cycle. After some assistance, I was able to simplify my code and resolve the problem. 
+I tried many different iterations to first get the angles correct and then to get the interaction just happening once when the sensor touched and stop when they are apart.
 
 ![Image](tscode7.PNG)
 (This is one version of code that was unsuccessful.)
@@ -380,14 +381,14 @@ I also tested this method with the servo.I did have some trouble using the adapt
 ![Image](tstest10.jpg)
 (Above is an image of the test.)
 
-This is the code I tried to use but was unsuccessful.
+
 ![Image](Capture.PNG)
-(This is one version of the unsuccessful code.)
+(This is another version of the unsuccessful code.)
 
 ![Image](2.PNG)
 (This is another version that I tried to use but was unsuccessful.)
 
-This is the final code that resolved that issue. after much problem solving I was finally able to make the servo do the 0 to 110 cycle once when the sensors were touched.
+This is the final code that resolved that issue. After much problem solving I was finally able to make the servo do the 0 to 110 cycle once when the sensors were touched. i had to add extra code and I simplified the sensor part of the code to just reference the pin that is touching 3V rather than the ones that are not.
 
 ![Image](finalservocode.PNG)
 (This is the final code for the servo.)
@@ -438,6 +439,11 @@ I included a wooden railing on teh platform as an extra detail to further the re
 ![Image](wood6.jpg)
 (Above is an image of the wooden railing.)
 
+Below is a final image of the finished room with all of the tech and furniature installed.
+
+
+![Image](wood7.jpg)
+(Above is an image of the final room.)
 
 ### Construction of Accessories ###
 I made many accessories for the room. I wanted to develop the vintage feel more and make it seem as if you have really just walked into someone's house.
@@ -559,13 +565,13 @@ The code I attempted to use can be found here:
 *https://makecode.microbit.org/_icVAyrb8P4Ao*
 
 
-This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication and I will be soldering the connections as I have the equipment at home. The speaker will project from a hole in the side of the room.
+This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication and I will be soldering the connections as I have the equipment at home. The speaker will be stuck to the outside of the wall.
 
 ![Image](speaker4.jpg)
 
 (This is my attempt to add a touch sensor to the final record player with the speaker.)
 
-I have successfully created a working record player with a motor and speaker. However, I now need to work on the input touch sensors that will trigger it to turn on and play the song.
+I have successfully created a working record player with a motor and speaker. 
 
 After some more research and prototyping, I have successfully found a reliable option that plays the speaker when a sensor is triggered. More details about this process in the 'touch sensor testing' section.
 
@@ -589,6 +595,11 @@ I also made the fire part. Created on a wooden stock base, I added sticks and th
 
 ![Image](access12.jpg)
 (This is an image of the final fireplace with the fire installed.)
+
+During and after wiring I conducted many tests to make sure the leds were working.
+
+![Image](firefire.gif)
+(Above is an image of the wooden railing.)
 
 ### Door Interaction Construction
 The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. The servo will open all close the door through changing the servo to different angles.
@@ -748,7 +759,7 @@ The music continued whilst the fireplace illuminated. It was as if the house was
 Below is the final version of the short narrative that will coincide with the miniature scene. 
 ##### Page 1 #####
 ###### Interaction: Door Opens with Servo
-The door creaked as I opened it and a musty smelled released. The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  And they give me the responsibility of cleaning out their apartment because I am the closest living relative, seems sketchy, I thought as took in my bizarre surroundings. 
+The door creaked as I opened it and a musty smelled released. The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  And they gave me the responsibility of cleaning out the apartment because I am the closest living relative, seems sketchy, I thought as took in my bizarre surroundings. 
 
 ##### Page 2 #####
 ###### Interaction: Lights turn on
@@ -760,11 +771,11 @@ Stepping into the room I notice a cold breeze through an open window. Making goo
 
 ##### Page 4 #####
 ###### Interaction: Record player spins and begins playing 'I Can't Help Falling in Love With You By ELvis Presley'
-Walking over to the window to close it, I hear a sudden hum of a motor. A sweet song begins to play, making me stand still, frozen in shock. Why was this stuff happening? I didn't feel threatened but I sure was suprised.
+Walking over to the window to close it, I hear a sudden hum of a motor. A sweet song began to play, making me stand still, frozen in shock. Why was this stuff happening? I didn't feel threatened but I sure was suprised.
 
 ##### Page 5 #####
 ###### Interaction: Fireplace turns on
-The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
+The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I swiftly left, hoping I could just forget about this whole thing.
 
 
 
