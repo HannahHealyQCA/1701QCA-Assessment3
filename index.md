@@ -1,5 +1,5 @@
 # *Insert project title here*
-## *Insert your name here* ##
+## *Hannah Healy* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
 <!--- Instructions for the journal will mostly be included as comments, which appear in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. In some cases, such as in headings, there is italicised text included between asterisks that needs to be replaced. --->
@@ -14,6 +14,7 @@ The image should be inserted with code like that below where you replace the fil
 ![Image](missingimage.png)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
+The is a physical miniature scene that visually depicts a written narrative in a physical space. Following the narrative of someone who has just recieved a letter altering her to the death of an unknown relative, she has to go to their apartment. This narrative follows them as they expolores this unfamiliar apartment and when some peculiar things began happening. As you read the story on the book, as each page turns the scene in front of you begins to come to life!
 
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
