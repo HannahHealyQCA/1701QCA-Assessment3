@@ -388,7 +388,7 @@ I tried many different iterations to first get the angles correct and then to ge
 ![Image](2.PNG)
 (This is another version that I tried to use but was unsuccessful.)
 
-This is the final code that resolved that issue. After much problem solving I was finally able to make the servo do the 0 to 110 cycle once when the sensors were touched. i had to add extra code and I simplified the sensor part of the code to just reference the pin that is touching 3V rather than the ones that are not.
+The final code that resolved that issue is below. After much problem solving I was finally able to make the servo do the 0 to 110 cycle once when the sensors were touched. i had to add extra code and I simplified the sensor part of the code to just reference the pin that is touching 3V rather than the ones that are not.
 
 ![Image](finalservocode.PNG)
 (This is the final code for the servo.)
@@ -561,7 +561,7 @@ A video of this can be found at:
 
 To alter the code I just added a 'analogue write P1 to 50' block onto the final song code above.
 
-I then attempted to add a touch sensor to trigger these interactions. I was unsuccessful in doing so, therefore, I need to complete more prototyping and research to either resolve the issue or find a better alternative
+I then attempted to add a touch sensor to trigger these interactions. I was unsuccessful in doing so.
 
 The code I attempted to use can be found here:
 *https://makecode.microbit.org/_icVAyrb8P4Ao*
@@ -571,11 +571,11 @@ This is an image of the attempt to add a touch sensor. However, the wires and mi
 
 ![Image](speaker4.jpg)
 
-(This is my attempt to add a touch sensor to the final record player with the speaker.)
+(This is my unsuccessful attempt to add a touch sensor to the final record player with the speaker.)
 
-I have successfully created a working record player with a motor and speaker. 
+I have successfully created a working record player with a motor and speaker but need to continue testing touch sensors. (More Information in the 'touch sensor testing' sectio. 
 
-After some more research and prototyping, I have successfully found a reliable option that plays the speaker when a sensor is triggered. More details about this process in the 'touch sensor testing' section.
+After some more research and prototyping, I have successfully found a successful reliable option that plays the speaker when a sensor is triggered. More details about this process in the 'touch sensor testing' section.
 
 
 
@@ -602,6 +602,8 @@ During and after wiring I conducted many tests to make sure the leds were workin
 
 ![Image](firefire.gif)
 (Above is the working flickering leds.)
+
+I am very pleased with this interaction as it truly completes the ambience of the room.
 
 ### Door Interaction Construction
 For the first iteration of the door opening interaction, i tried using a magnet.
@@ -636,7 +638,7 @@ Finally I was able to get it working smoothly with the touch sensors and I am ve
 ![Image](servo3.gif)
 (This is a gif of the door opening from the outside.)
 
-although this interaction is not as streamline and disrete as i would have liked it, i had to adapt to the problems I faced and alter my method appropriately. 
+although this interaction is not as streamline and disrete as i would have liked it, i had to adapt to the problems I faced and alter my method appropriately. Apart from these problems, I am still happy with this interaction.
 
 
 ### Window Curtain Interaction Construction
@@ -658,6 +660,8 @@ I then tested the fan with the curtains.
 When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to.
 
 I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew. 
+
+This interaction is successful and adds another level of immersiveness. My project does not just use lights and artificial movement but it also uses natural movement like wind.
 
 ### Wall Light Interaction ###
 In order to fabricate the lights, I created three different wall sonces or lamps. I soldered extra wire to each led so I could install it into teh fixtures. I also covered one of the two wires with tape to prevent them touching. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
@@ -825,7 +829,7 @@ What might be an interesting extension of this project? In what other contexts m
 
 The elements of my project that I beleive to be most successful are the immersive detail and ambiance of the room, how the room electronically comes alive and the experience of the book translated into a physical space. I really enjoyed this project and how I developed my idea so much through the design process. I began with just wanting to create  miniature scene that includes movement and sound. However, through the double diamond process, individual ideation and peer input, I have greatly expanded this base idea and created a successful and purposeful project. I am also very proud of how i persisted even with countless setbacks and with my minimal knowledge. Consequently, I have greatly expanded my knowledge of electronics as i came into this course with no expereince with electronics, circuits, coding or basically anything in that realm.
 
-On the contrary, I did encounter many setbacks and hurdles within the process which introduces some parts of my project which could be improved. I really struggled finding a sufficient sensor input that was reliable but also descrete in the pages of the book. But my downfall was immediately going for a complicated tech solution of capacitive touch sensors which were too unreliable. If I had gone with a much more simpler option first like circuit switches I would have reduced this process significantly. Thus, giving me more time to work on the aesthetic of the book and to streamline or even advance each interaction. 
+On the contrary, I did encounter many setbacks and hurdles within the process which introduces some parts of my project which could be improved. I really struggled finding a sufficient sensor input that was reliable but also descrete in the pages of the book. But my downfall was immediately going for a complicated tech solution of capacitive touch sensors which were too unreliable. If I had gone with a much more simpler option first like circuit switches I would have reduced this process significantly. Thus, giving me more time to work on the aesthetic of the book and to streamline or even advance each interaction. A physical part of my project that could have been improved is inventing a way so that the pages will not touch and trigger the interactions when not intended. I could not think of a way to do this but with more time and research I would have been able to make the book more user friendly. I could have also improved on the final fabrication of the wires. I intended on puttting them under the balcony but I needed more access to them so i just had the breadboard next to the scene. If I wanted to streamline the look more I could have added a wooden box over the breadboard, but this would have just made it more bulky. Even without this element I am still happy with the final fabrication as the breadboard is not too visible and this allows me to easily plug in the battery pack and change anything if needed.
 
 I used a few external research documents to guide my construction of the miniature room elements and to get the electronic technical parts operating correctly. As stated earlier in the 'other research' section, I used a tutorial for the miniature record player and the upholstered armchair. Adapting these tutorials to cater for electronic components and the materials I had access to, I used them as a rough guideline and to help spark ideas (Materials, methods, aesthetic) on how to physically create these elements. I added aspects of my own to fit the aesthetic of my room, such as the sewed dimples on the armchair and the wooden exterior of the record player. I also did some research on ways to execute the action on sensors on the page of a book. First looking at capacitive touch sensors and closing a circuit with the human body, i used a few online resources to expand my understanding of these methods and help me translate these physical circuits into digital code. As I progressed through the touch sesnor testing, I utilised more resources that focused more on triggering the action through touching a pin and 3V. Using an animated book tutorial and paper paino tutorial, i was able to recontextualise the physical workings and adapt the code for my specific situation, consequently, finding the most reliable option for the more complicated components such as the speaker and servo. Online research was extrfemely helpful during both my design an physical construction process. I used pinterest to develop mood boards on the different parts of the process which allowed me to narrow down exactly what I wanted to create, as I was slightly unsure at the begginning.  Through the related projects, I was inspired to include immense detail and it gave me some ideas of the room i wanted to created and what the story behind the room would entail. The related projects both gave me ideas of miniature scenes and interactive books and how I can combine these seperate elements to create my project. Overall, through online research of both aesthetic and technical components, I was able to discover similar ideas, expand my individual knowledge and apply the notions conveyed within my own project. 
 
