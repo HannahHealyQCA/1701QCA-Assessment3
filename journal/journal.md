@@ -485,6 +485,8 @@ I also made a rug. I wanted an egyptian rug which i could have bought online but
 ![Image](access7.jpg)
 (Above is an image of my handmade rug.)
 
+I am very happy with the atmosphere I created through my vinatge assessories and the depth these accessories create within the scene and narrative.
+
 ### Record Player Construction ###
 To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
 
@@ -599,9 +601,10 @@ I also made the fire part. The leds are salvaged from some battery operated tea 
 During and after wiring I conducted many tests to make sure the leds were working.
 
 ![Image](firefire.gif)
-(Above is an image of the wooden railing.)
+(Above is the working flickering leds.)
 
 ### Door Interaction Construction
+For the first iteration of the door opening interaction, i tried using a magnet.
 The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. The servo will open all close the door through changing the servo to different angles.
 For the servo, I added an attachment for the magnet. The servo is under the floor but the magnetic force penetrates through the 3mm play wood.
 
@@ -634,6 +637,8 @@ Finally I was able to get it working smoothly with the touch sensors and I am ve
 (This is a gif of the door opening from the outside.)
 
 although this interaction is not as streamline and disrete as i would have liked it, i had to adapt to the problems I faced and alter my method appropriately. 
+
+
 ### Window Curtain Interaction Construction
 Firstly, I had to create window panes. I used clear plastic, wooden skewers, black tape and beads. Hand drilling a small hole in the inside of the window I used the skewers so that the windows can be opened and closed. I used the tape to create a border and the beads as handles. They do not exactly fit but I am still happy with them. i was going to add a window sill to diguise this but it would just block the air flow from the fan to the curtains.
 
@@ -652,7 +657,7 @@ I then tested the fan with the curtains.
 
 When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to.
 
-I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew.
+I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew. 
 
 ### Wall Light Interaction ###
 In order to fabricate the lights, I created three different wall sonces or lamps. I soldered extra wire to each led so I could install it into teh fixtures. I also covered one of the two wires with tape to prevent them touching. The first is more industrial looking as it will be placed at the door. I used the top of a toothpaste tube and painted it and aged it using metallic gold and copper paints. Using bead caps and a coiled piece of wire I created an arm for the light. The led has two wires soldered to it that are thread through the coilded wire and through a drilled hole in the wall. 
@@ -672,7 +677,7 @@ The third is made from a glue bottle lid. It is a bit more modern looking than I
 ![Image](light3.jpg)
 (Above is an image of the final light.)
 
-
+I am very happy with the varying different light fixtures I have created, their positioning in the room and how they contribute to the ambience both through the actual glow from the light and the aesthetic of the outside fabrication.
 
 ### Final Wiring
 After deciding on the types of sensors and testing them with each of the interactions, I began the final wiring. I kept a list recording what went to each pin so that I did not get confused and so I did not have to keep referring back to the code. As I had already tested each individual part so it was just a matter of cobining both the code and the physical wiring. I used the microbit connected to the edge connector so I had mor pins for inputs and outputs. I used the breadboard but also solder where possible so I could have more room to put things in opposite sides.
@@ -685,7 +690,7 @@ To reinforce and ensure the connections were secure, I also soldered them.
 
 ![Image](wire2.jpg)
 (Above is an image of the soldering in process.)
-I was going to have the breadboard and microbit under the balcon latform but whilst wiring it was easier to wire everything just next to the room. It is still out of sight but easy to access when testing aspects. although the wires ook messy it can not be seen very well and the elaborate wiring is needed for this project to function. Where I could I soldered but used the breadboard to connect to the pins, 3V and 0V and connected the record player motor through the transistor on the breadboard. But for the lights I soldered the resistor directly to the circuit.
+I was going to have the breadboard and microbit under the balcon latform but whilst wiring it was easier to wire everything just next to the room. It is still out of sight but easy to access when testing aspects. although the wires ook messy it can not be seen very well and the elaborate wiring is needed for this project to function. Where I could I soldered but used the breadboard to connect to the pins, 3V and 0V and connected the record player motor through the transistor on the breadboard. But for the lights I soldered the resistor directly to the circuit. If I wanted to hide the messy wires I could have added a wooden box to cover them up. But I felt this was unnecessary as it does not take away from the overall project and can not be seen easily. This extra attachment would have made the wooden form even more bulky than it already is.
 
 When wiring the fan, I noticed that I did not have another transistor. Instead i used the fan externally from the microbit with a battery instead. Although I would have liked all apsects to be connected to the microit I had to consider the materials I had access to. This consequently altered my code as I removed the element for the fan. 
 
@@ -709,6 +714,8 @@ After soldering, I threaded everything through the fabricated form, securing wir
 ![Image](wire4.jpg)
 (This is an image of the fabricated wires.)
 
+Through testing each individual elements, soldering wires, coding all elements together, using the breadboard and installing specific tech componants into aesthetic fabrication, I have successfully fiinished the final wiring.
+
 ### Construction of Physical Book
 Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. To plan the pages and where each interactin goes, i made a miniature version as a template for the final version. The interaction for each page is wired to the page before it so that when the page is turned from right to left it triggers the interaction and then you read the narrative on the front on the whilst the after the interaction has started. I did it this way as I did not want the audience to read it first and then the action happen, I preferred the action to start happening whilst the audience reads it.
 I included extra pages so the wires can be threaded on the back of each page. The wires are taped with electrical tape onto the aluminium switches. These extra pages will be glued together which will conceal the messy wires. I used strips of folded aluminium foil and double sided tape to adhere them.
@@ -726,6 +733,7 @@ I included extra pages so the wires can be threaded on the back of each page. Th
 
 I handwrote the narrative in the book as I do not have access to a printer. Although this apsect is not ideal, i think it gives it an authentic feel as if your actually reading someone's story or diary.
 A limitation I had is that sometimes the pages touch unintentionally, so for the final showcase I put a pencil between each page to prevent this. ALthough this is not ideal or a prt of the final fabrication, I could not think of a way to stop this problem.
+Apart from this limitation, i am very happy with the book and the authentic personal experience it creates.
 
 
 
@@ -785,6 +793,9 @@ The music continued whilst the fireplace illuminated. It was as if the house was
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+The final code for my project can be found at this link:
+(https://makecode.microbit.org/_iKpAew1Y98F1)
+
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 Throughout the design process of this project, I utilised the Double Diamond method as it helped me to order my thoughts and ideas, consequently helping me to make the best possible version of my project.
@@ -822,3 +833,7 @@ I used a few external research documents to guide my construction of the miniatu
 There are many elements of my project that are novel. Overall, I have not been able to find something exactly like my project. i have found iterations of miniature models that use electronics but do not incorporate the larger narrative or physical book and on the other hand, I have found interactive books that do not involve a physical miniature space (as seen in my related projects section). By combining theses two different projects I have created a novel experience. I wanted to create something that combines the feeling of physically reading a book with a visual physical expereince, which I had never seen before. Rather than digitally creating visuals that tell a story or two dimensionally visualising a story in a physical space, I aimed to created a experience that visually narrates a physical book in a physical space. I wanted to create a very unique expereince and truly bring the reader into the story. I often find myself getting lost in the words on a page and not truly imaginatively visualising what is happening, so I wanted to elucidate a story in an actual physical space. ALthough in our modern world there are other forms of visual entertainment such as movies and books, I created a whole new experience that is more complex, engaging and immersive and combines the visual component of movies but alters it to be three dimensional and the narrative of a book.
 
 An interesting extension of this project would be to instead of having a book record my voice to play with it. This changes the experience greatly as it transitions from more of a physical realm moving towards more of a strictly visual space. This of course introduces the great debate of books vs movies/audio books and the difference between holding a physical book and reducing entertainment as just a visually stimulating experience. I like the incorporation of the book as it relates the physical space to a physical book and makes the experience more authentic. If there was basically no human interaction, why not just watch a movie. I guess this is interesting because you can see the three dimensional space but reduces the relatability as I wanted to make it seem as if you were in the scene yourslef, which accounts for the lack of characters in the physical space and the first person story.
+
+My project could also be adpated into an educational tool. Each page could have a wod and then that action could be represented in the scene. this would help children learn the meanings behinds words and to eventually associate words with their corresponding meanings. This would completely change the expereince as the target udience, complexity of use, and simple visual representation would need to be adapted so that children can easily use, understand and learn from the device.
+
+Overall, I really enjoyed both the process and final product. I enjoyed learning about new ideological design processes and implementing them in a real context. I liked designing the room and creating a thorough experience through the small details and overall ambience of the room. The final product is also very rewarding as I put in a lot of work and it is nice to see my project in its final form: operating well and looking aesthetically pleasing. 
