@@ -768,23 +768,23 @@ The music continued whilst the fireplace illuminated. It was as if the house was
 Below is the final version of the short narrative that will coincide with the miniature scene. 
 ##### Page 1 #####
 ###### Interaction: Door Opens with Servo
-The door creaked as I opened it and a musty smelled released. The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  And they gave me the responsibility of cleaning out the apartment because I am the closest living relative, seems sketchy, I thought as took in my bizarre surroundings. 
+The door creaked as I opened it and a musty smelled released. The letter was so unexpected, a relative I had never met just dying out of nowhere?  They gave me the responsibility of cleaning out their apartment because I am the closest living relative, seems sketchy, I thought as took in my bizarre surroundings. 
 
 ##### Page 2 #####
 ###### Interaction: Lights turn on
-Greeted by a dim room, the room is suddenly illuminated by atmospheric lighting. Oh, the lights must be on motion sensor, I thought to myself with a shocked expression. Although it startled me, the room was cosy, it told a story. The room had character, it was as if someone was still living there, eerie. 
+Greeted by a dim room, it is suddenly illuminated by atmospheric lighting. Oh, the lights must be on motion sensor, I thought to myself with a shocked expression. Although it startled me, the room was cosy, it told a story. The room had character, it was as if someone was still living there, eerie. 
 
 ##### Page 3 #####
 ###### Interaction: Wind blows through window and disturbs curtains
-Stepping into the room I notice a cold breeze through an open window. Making goosebumps form on my skin, the quaint curtains gently blew in the cold night breeze. 
+Stepping into the room I noticed a cold breeze through an open window. Making goosebumps form on my skin, the quaint curtains gently blew in the cold night breeze. 
 
 ##### Page 4 #####
 ###### Interaction: Record player spins and begins playing 'I Can't Help Falling in Love With You By ELvis Presley'
-Walking over to the window to close it, I hear a sudden hum of a motor. A sweet song began to play, making me stand still, frozen in shock. Why was this stuff happening? I didn't feel threatened but I sure was suprised.
+As I walked over to the window to close it, I heard a sudden hum of a motor. A sweet song began to play, making me stand still, frozen in shock. Why was this stuff happening? This is more than just a coincidence. I didn't feel threatened but I sure was suprised.
 
 ##### Page 5 #####
 ###### Interaction: Fireplace turns on
-The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I swiftly left, hoping I could just forget about this whole thing.
+The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too much for me, I've got to get out of here, I thought, as I left, hoping I could just forget about this whole thing.
 
 
 
