@@ -666,6 +666,13 @@ When wiring the fan, I noticed that I did not have another transistor. Instead i
 
 I created a vent in the floor to allow air to flow through. i had originally planned to use flyscreen but I used chicken wire instead because the larger holes allowed more air flow. I constructed a pltform for the fan to have the fan as close to the vent as possible. I also had to manage the angle of the fan as this effected the way in which the curtains blew. 
 
+With all of these considerations, whe i completedmy last test the fan hardly moved the curtains. This is because the fan could not blow air from under the platform due to airflow. So I decided to create a stand for the fan on the outside of the window. i used some scrap platsic and cable ties.
+
+![Image](fanfan.jpg)
+(Above is an image of fan stand.)
+
+I did not have time to fabrictae it properly but as it is behind the scene it is not visibkle and does not take away from the expereince at all. I also create slits in the curtains so that the wind is easily recognisible. I covered the vent in =the floor with a scrap of ply wood. Although I had to change y original plan multile times, I am still happy with the overall outcome.
+
 This interaction is successful and adds another level of immersiveness. My project does not just use lights and artificial movement but it also uses natural movement like wind.
 
 ### Wall Light Interaction ###
