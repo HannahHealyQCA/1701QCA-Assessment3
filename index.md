@@ -11,7 +11,7 @@
 The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up. Note that .png is different to .PNG in a filename here. The names are case sensitive.
 --->
 
-![Image](missingimage.png)
+![Image](showcase1.jpg)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 The is a physical miniature scene that visually depicts a written narrative in a physical space. Following the story of someone who has just recieved a letter allerting her to the death of an unknown relative, she has to go to their apartment. This narrative follows them as they explore this unfamiliar apartment and when some peculiar things began happening. As you turn each page and immersive yourself in the story, the scene in front of you begins to come to life!
