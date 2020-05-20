@@ -434,10 +434,13 @@ I also added a wooden floor. I cut and stained each individual wooden stick and 
 ![Image](wood5.jpg)
 (This is an image of the wooden floor.)
 
-I included a wooden railing on teh platform as an extra detail to further the realism. It is made from wooden sticks and dowels.
+I included a wooden railing on teh platform as an extra detail to further the realism. It is made from wooden sticks and dowels. I also added some fake greenery to suggest that the room is abandoned.
 
 ![Image](wood6.jpg)
 (Above is an image of the wooden railing.)
+
+![Image](wood8.jpg)
+(Above is an image of the added touches.)
 
 Below is a final image of the finished room with all of the tech and furniature installed.
 
@@ -484,6 +487,8 @@ I also made a rug. I wanted an egyptian rug which i could have bought online but
 
 ![Image](access7.jpg)
 (Above is an image of my handmade rug.)
+
+As finishing touches, I added some greenery onto the wooden platform railing, cobwebs made from cotton balls and scattered some small tea stained papaers to further suggest that the room is abadonded.
 
 I am very happy with the atmosphere I created through my vinatge assessories and the depth these accessories create within the scene and narrative.
 
