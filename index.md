@@ -1,4 +1,4 @@
-# *Insert project title here*
+# *A Letter of Optics: A Visual Narrative*
 ## *Hannah Healy* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
@@ -14,7 +14,7 @@ The image should be inserted with code like that below where you replace the fil
 ![Image](showcase1.jpg)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
-The is a physical miniature scene that visually depicts a written narrative in a physical space. Following the story of someone who has just recieved a letter allerting her to the death of an unknown relative, she has to go to their apartment. This narrative follows them as they explore this unfamiliar apartment and when some peculiar things began happening. As you turn each page and immersive yourself in the story, the scene in front of you begins to come to life!
+*'A Letter of Optics: A Visual Narrative'* is a physical miniature scene that visually depicts a written narrative in a physical space. Following the story of someone who has just received a letter allerting them to the death of an unknown relative, they have to go to this unknown person's apartment to clean it out. This narrative follows them as they explore this unfamiliar apartment and when some peculiar things began happening. As you turn each page and immersive yourself in the story, the scene in front of you begins to come to life!
 
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
