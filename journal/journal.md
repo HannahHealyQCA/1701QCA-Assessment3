@@ -737,7 +737,7 @@ I used thin ribbon wire on the book. I taped the wires to the aluminium switches
 After soldering, I threaded everything through the fabricated form, securing wires with electrical tape and drilling holes to thread wires through.
  
 ![Image](wire4.jpg)
-(This is an image of the fabricated wires.)
+(This is an image of the taped wires at the back of the scene.)
 
 Through testing each individual elements, soldering wires, coding all elements together, using the breadboard and installing specific tech components into aesthetic fabrication, I have successfully fiinished the final wiring.
 
