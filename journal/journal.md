@@ -739,7 +739,7 @@ After soldering, I threaded everything through the fabricated form, securing wir
 ![Image](wire4.jpg)
 (This is an image of the fabricated wires.)
 
-Through testing each individual elements, soldering wires, coding all elements together, using the breadboard and installing specific tech componants into aesthetic fabrication, I have successfully fiinished the final wiring.
+Through testing each individual elements, soldering wires, coding all elements together, using the breadboard and installing specific tech components into aesthetic fabrication, I have successfully fiinished the final wiring.
 
 ### Construction of Physical Book
 Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. To plan the pages and where each interactin goes, I made a miniature version as a template for the final version. The interaction for each page is wired to the page before it so that when the page is turned from right to left it triggers the interaction and then you read the narrative on the front of the page whilst the interaction has started. I did it this way as I did not want the audience to read it first and then the action happen, I preferred the action to start happening whilst the audience reads it.
