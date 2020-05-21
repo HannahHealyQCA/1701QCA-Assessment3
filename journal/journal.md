@@ -118,7 +118,7 @@ This tutorial significantly helped me when prototyping and experimenting with to
 ### *Microbit Paper Piano Tutorial* ###
 *https://www.youtube.com/watch?v=6a_rykLlN3k*
 
-This tutorial opened my eyes to touch sensor alternatives. Using the code and tutorial linked in teh description of the video, I was able to use the technique of touching a pin and 3V to create my final touch sensors. ALthough this specific project is signififcantly different to mine, I was interested as it uses aluminium strips connected to the pins to trigger sounds. I adapted this tutorial and used the code as reference to trigger different actions in a different context.
+This tutorial opened my eyes to touch sensor alternatives. Using the code and tutorial linked in the description of the video, I was able to use the technique of touching a pin and 3V to create my final touch sensors. Although this specific project is signififcantly different to mine, I was interested as it uses aluminium strips connected to the pins to trigger sounds. I adapted this tutorial and used the code as reference to trigger different actions in a different context.
 
 
 All other helpful research or tutorials are mentioned in specific sections about the particular step in my construction/design process below.
@@ -225,7 +225,7 @@ Now that I knew the interactions and overall look, I began making a material lis
 (This is an image of my initial material list).
 
 #### Description of Look and Intentions ####
-To go along with the story, the room may look a little bit abandoned with overgrown plants. There will be a platform underneath the whole room and a smaller platform with steps in front of the window (more about this the construction of the wooden form). The walls will be ardorned with frames and different posters. Overall, everything will look substantially realistic whilst also give a vintage feel.
+To go along with the story, the room may look a little bit abandoned with overgrown plants. There will be a platform underneath the whole room and a smaller platform with steps in front of the window (more about this the 'construction of the wooden form' section). The walls will be ardorned with frames and different posters. Overall, everything will look substantially realistic whilst also give a vintage feel.
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
 
 ### Interaction flowchart ###
@@ -262,7 +262,7 @@ There will likely by a dozen or so images of the project under construction. The
 #### Contruction of Room/ Layout ####
 ![Image](mood1.png)
 
-(This is a mood board of the research I constructed on the different ways to construct miniature rooms and different room layouts.)
+(This is a mood board of the research I conducted on the different ways to construct miniature rooms and different room layouts.)
 
 ### Touch Sensor Testing ###
 To begin prototyping I researched capactive touch sensors and using the human body to close a circuit. I tried a few different iterations.
@@ -297,7 +297,7 @@ As using the human body to close a circuit was too unreliable, I delved more int
 
 *https://ukbaz.github.io/howto/microbit_touch.html*
 
-Using this tutorial I was able to successfully make a touch sensor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
+Using this tutorial, I was able to successfully make a touch sensor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
 
 The code I used within this iteration can be found at this link:
 
@@ -346,7 +346,7 @@ The code I used when testing a switch with the speaker is at:
 (This an image of the unsuccessful speaker.)
 
 Consequently, this method was not viable. I could use this method for the lights, fan, and record player as they just utilise motors and leds which do not need specific timing.
-I did not need to test the fan as it uses the smae tech as the record player, but I did test the leds just to work out the wiring. I used the same code I used when testing the record player with the switch. 
+I did not need to test the fan as it uses the same tech as the record player, but I did test the leds just to work out the wiring. I used the same code I used when testing the record player with the switch. 
 
 ![Image](tstest7.jpg)
 (This is an image of the led test.)
@@ -363,7 +363,7 @@ I first adapted the code in the animated book tutorial. However, through this me
 ![Image](tstest8.jpg)
 (This is an image of a test that triggers the microbit LEDs.)
 
-Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, it was erradic and the microit got very hot. I tried it again the next day and it worked basically perfectly. When I touched the two aluminium pieces the speaker crackled and when i realeased them the volume decreased. Although this may contribute to the ambiance as record players do crackle, I needed the volume to be at full capacity. I noticed that both the speaker and one of the sensors were on pin 0 so i changed the sensor to a different pin and that fixed the problem. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
+Moving onto the microbit piano tutorial, I adapted this code so that when one piece of aluminium is connected to a pin and another on 3V touch it triggers the action. At first it didn't seem to be working, it was erradic and the microit got very hot. I tried it again the next day and it worked basically perfectly. When I touched the two aluminium pieces the speaker crackled and when I realeased them the volume decreased. Although this may contribute to the ambience as record players do crackle, I needed the volume to be at full capacity. I noticed that both the speaker and one of the sensors were on pin 0 so I changed the sensor to a different pin and that fixed the problem. Despite these initial hiccups, this is the most viable option for the specific components that need to be timed. 
 
 The adapted code can be found at this link:
 (https://makecode.microbit.org/_02s72K3R8KpL)
@@ -372,7 +372,7 @@ The adapted code can be found at this link:
 (Above is an image of the test.)
 
 
-I also tested this method with the servo. I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the servo cycle. After some assistance, I was able to simplify my code and resolve the problem. 
+I also tested this method with the servo. I did have some trouble using the adapted piano tutorial code with the servo. The servo just kept repeating the servo cycle when I wanted the servo cycle to occur once when the sensors touched. After some assistance, I was able to simplify my code and resolve the problem. 
 I tried many different iterations to first get the angles correct and then to get the interaction to happen once when the sensor touched and stop when they are apart.
 
 ![Image](tscode7.PNG)
@@ -409,7 +409,7 @@ After deciding on a layout for the room which was informed by mood boards and sk
 
 Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the according spots to thread the wires under the scene and to the microbit. 
 
-I also added a platform balcony with steps. This is because I didn't want the room just to be a flat open space. I wanted to make it look realistic and add some more dimension. This balcony with steps also gave more room for technology underneath. On this platform is a window, and underneath is a hole that I planned to use for the fan but I had to adapt to some technical difficulties (More information in the 'Window Curtain Interaction Constructio' section). I was going to add an access hole with hinges on the side to access the technology but instead the balcony will be a removeable piece.
+I also added a platform balcony with steps. This is because I didn't want the room just to be a flat open space. I wanted to make it look realistic and add some more dimension. This balcony with steps also gave more room for technology underneath. On this platform is a window, and underneath is a hole that I planned to use for the fan but I had to adapt to some technical difficulties (More information in the 'Window Curtain Interaction Construction' section). I was going to add an access hole with hinges on the side of the whole scene to access the technology but instead made the balcony a removeable piece.
 I also cut a piece for a fireplace that slots into the left hand corner. 
 
 After measuring and cutting the wood, I began to arrange the pieces and glue them with wood glue. I used masking tape to secure the pieces while they dry. I also filled in the steps with wooden sticks.
@@ -429,7 +429,7 @@ After measuring and cutting the wood, I began to arrange the pieces and glue the
 
 (This is the final basic construction of the room.)
 
-I also added a wooden floor. I cut and stained each individual wooden stick and then installed them into the floor. Although it was alot of work, I like the effect and how it contributes to the vintage feel. 
+I also added a wooden floor. I cut and stained each individual wooden stick and then installed them into the floor. Although it was a lot of work, I like the effect and how it contributes to the vintage feel. 
 
 ![Image](wood5.jpg)
 (This is an image of the wooden floor.)
@@ -468,7 +468,7 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 
 I really like this piece as it is an eyecatching element that gives off a 70's vintage feel. I am very happy with how realistic it turned out.
 
-I also made a few different art pieces to put on the walls as I didn't want to leave them bare. I created a shadow box with 3D butterflies inside. I also made wall art out of a stamp that I put a border on and a vintage sticker. I used a miniture frame that I aged with copper and black paint as it looked too new. I also made a vintage 50s clock out of colour pins.
+I also made a few different art pieces to put on the walls as I didn't want to leave them bare. I created a shadow box with 3D butterflies inside. I also made wall art out of a stamp that I put a border on and a vintage sticker. I used a miniture frame that I aged with copper and black paint as it looked too new. I also made a vintage 50s clock out of different coloured pins.
 
 ![Image](access4.jpg)
 (This is an image of all of the wall art.)
@@ -478,7 +478,7 @@ I made an old aged cabinent. Most of the drawers are faux but I made a few so th
 ![Image](access5.jpg)
 (This is an image of the cabinent.)
 
-I also made a velvet ottoman. Using the red velevet from a broken scrunchie, I created an ottoman that also has the dimples in the cushion like the armchair. Although they are differing materials and colours, this element connects the two and creates more unity throughout the space.
+I also created a velvet ottoman. Using the red velvet from a broken scrunchie, I created an ottoman that also has the dimples in the cushion like the armchair. Although they are differing materials and colours, this element connects the two and creates more unity throughout the space.
 
 ![Image](access6.jpg)
 (This is an image of the velvet ottoman.)
@@ -488,7 +488,7 @@ I also made a rug. I wanted an egyptian rug which I could have bought online but
 ![Image](access7.jpg)
 (Above is an image of my handmade rug.)
 
-As finishing touches, I added some greenery onto the wooden platform railing, cobwebs made from cotton balls and scattered some small tea stained papaers to further suggest that the room is abadonded.
+As finishing touches, I added some greenery onto the wooden platform railing, cobwebs made from cotton balls and scattered some small tea stained papaers to further suggest that the room is abandoned.
 
 I am very happy with the atmosphere I created through my vinatge accessories and the depth these accessories create within the scene and narrative.
 
@@ -500,7 +500,7 @@ To create a miniature record player I first constructed a small wooden box and l
 (This is an image of the main components of the record player.)
 
 After adding small metal wire details, a miniature hinge and staining the wood, I also created a few different vinyl record iterations to make sure it spun evenly on the motor.
-The first record was made just out of clear plastic painted black with a simple hole. I  used glue and a paintbrush to creat texture on the record. I noticed this version did not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. The motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft which improved the spinning movement but it still was not spinning consistently without stopping.
+The first record was made just out of clear plastic painted black with a simple hole. I  used glue and a paintbrush to create texture on the record. I noticed this version did not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. The motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft which improved the spinning movement but it still was not spinning consistently without stopping.
 
 ![Image](rp2.png)
 
@@ -556,7 +556,7 @@ After completing the song coding aspect and after many tests using the make code
 
 (This is an image of the attachments installed.)
 
-I then attached it to the record player, synced the record spinning to the music and tested it out. The motor is  abit loud but I will adjust the speed so it is slower and thus quieter.
+I then attached it to the record player, synced the record spinning to the music and tested it out. The motor is a bit loud but I will adjust the speed so it is slower and thus quieter.
 A video of this can be found at:
 *https://vimeo.com/411233157*
 
@@ -586,7 +586,7 @@ After some more research and prototyping, I have found a successful reliable opt
 
 ### Fireplace Interaction Construction ###
 
-I also made the fire part. The leds are salvaged from some battery operated tea lights so they glow and flicker like real fire. Created on a wooden stick base painted black, I added sticks and then the fire on top. I created the fire using the rubber fake flame casing from the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later. To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. I painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. 
+I also made the fire part. The leds are salvaged from some battery operated tea lights so they glow and flicker like real fire. Created on a wooden stick base painted black, I added some branches and then the fire on top. I created the fire using the rubber fake flame casing from the top of the faux tea lights. I glued three together, added extra hot glue texture and finished it off with some yellow cellophane to add more colour glow and flame texture. The three Leds slot perfectly into the rubber flame casing and the metal pins stick out the back so I can have access to them later. To complete the aesthetic features of the fireplace, I added a shelf and brick detailing. I used carboard hand cut bricks aranged onto the basic wood piece and I layed wrinkled tissue paper on top to add more texture. I painted it with different tones to increase realism. The shelf is made of a wooden stick and is cut so it slots in perfectly. I painted the inside of the fireplace black to maximise the Led glow and added a border on the floor using a wooden stick. 
 
 ![Image](access8.jpg)
 (This is an image of the fireplace in progress.)
@@ -613,7 +613,7 @@ I am very pleased with this interaction as it truly completes the ambience of th
 ### Door Interaction Construction
 For the first iteration of the door opening interaction, I tried using a magnet.
 The door has a small magnet on the bottom edge that connects to a magnet connected to the servo. The servo will open and close the door through changing the servo to different angles.
-On the servo I added an attachment for the magnet. I first tried using an attachment from a wooden stick but it was too weak. The servo is under the floor but the magnetic force penetrates through the 3mm play wood. 
+On the servo I added an attachment for the magnet. The servo is under the floor but the magnetic force penetrates through the 3mm play wood. 
 
 I had some troubles getting the servo to work with the sensor (More information in the 'touch sensor testing' section). After some assistance, I was able to simplify the code and resolve the issue. Below is the final code for this individual interaction.
 ![Image](finalservocode.PNG)
@@ -628,8 +628,8 @@ Aesthetically I also stained the wood, added wooden panels, an ornate door knob 
 ![Image](finaldoorarea.jpg)
 (This is the final door area.)
 
-I kept encountering problems using the magnet method. The door's hinges was not exactly perfect and caused the magnet to reelease from the magnet underneath the platform. I also had problems with the magnet detaching and the servo falling off. I tried using PVA glue, hot glue, two part epoxy glue, and wood glue to glue the magnet but due to the strong magnetic force, it kept coming off. 
-After trying countless different glues, moving the hinges, adding a flat support on the back of the door and even creating a custom plastic attachment for the servo that held the magnet, I had to decide to move on from the magnet idea. Although I was quite invested in the magnets, I was not progressing so I had to try a different method. I then tried attaching the servo arm to the back of the door so that it pushed the door open and close. I also had to add a wire hook that allowed the arm to move as when it opened the door the arm had to have the ability to move. I made this attachment with a scrap piece of plastic screwed into the servo and wire.
+I kept encountering problems using the magnet method. The door's hinges were not exactly perfect and caused the magnet to reelease from the magnet underneath the platform. I also had problems with the magnet detaching and the servo falling off. I tried using PVA glue, hot glue, two part epoxy glue, and wood glue to glue the magnet but due to the strong magnetic force, it kept coming off. 
+After trying countless different glues, moving the hinges, adding a flat support on the back of the door and even creating a custom plastic attachment for the servo that held the magnet, I had to decide to move on from the magnet idea. Although I was quite invested in the magnets, I was not progressing so I had to try a different method. I then tried attaching the servo arm to the back of the door so that it pushed the door open and close. I made this attachment with a scrap piece of plastic screwed into the servo and wire. I also had to add a wire hook that allowed the arm to move as when it opened the door the arm had to have the ability to move. 
 Finally I was able to get it working smoothly with the touch sensors and I am very happy with this interaction. More information on this process can be found in the 'touch sensor testing' section. 
 
 
@@ -653,7 +653,7 @@ Firstly, I had to create window panes. I used clear plastic, wooden skewers, bla
 ![Image](window1.jpg)
 (This is an image of the window panes.)
 
-I then added curtains and a curtain rod made out of a painted skewer, jump rings and fabric. I had to use a very light fabric to ensure the fan would blow it enough. I hand sewed a hem to prevent freying but I did leave some rough edges to contribute to the abandoned look. 
+I then added curtains and a curtain rod made out of a painted skewer, jump rings and fabric. I had to use a very light fabric to ensure the fan would blow it enough. I hand sewed a hem to prevent fraying but I did leave some rough edges to contribute to the abandoned look. 
 ![Image](window2.jpg)
 (This is an image of the final window with the curtains.)
 
@@ -674,7 +674,7 @@ With all of these considerations, when I completed my last test the fan hardly m
 ![Image](fanfan.jpg)
 (Above is an image of fan stand.)
 
-I did not have time to fabrictae it properly but as it is behind the scene it is not visible and does not take away from the experience at all. I also put slits in the curtains so that the wind is easily recognisible. I covered the vent in the floor with a scrap of ply wood. Although I had to change my original plan multiple times, I am still happy with the overall outcome.
+I did not have time to fabricate it properly but as it is behind the scene it is not visible and does not take away from the experience at all. I also cut slits in the curtains so that the wind is easily recognisible. I covered the vent in the floor with a scrap of ply wood. Although I had to change my original plan multiple times, I am still happy with the overall outcome.
 
 This interaction is successful and adds another level of immersiveness. My project does not just use lights and artificial movement but it also uses natural movement like wind.
 
@@ -720,7 +720,7 @@ I was going to have the breadboard and microbit under the balcony platform but w
 When wiring the fan, I noticed that I did not have another transistor. Instead I used the fan externally from the microbit with a battery. Although I would have liked all apsects to be connected to the microbit I had to consider the materials I had access to. This consequently altered my code as I removed the element for the fan. 
 
 
-I used thin ribbon wire on the book. I taped the wires to the aluminium switches as I could not solder them because the solder would not adhere to aluminum foil. I also ensured that all wires lead to the spine of the book so that it was neat when turning pages. The connections were also secured as I glued the back of the pages together.There are six drilled holes in the platform that the wires are thread to under the room and to the breadboard. 
+I used thin ribbon wire on the book. I taped the wires to the aluminium switches as I could not solder them because the solder would not adhere to aluminum foil. I also ensured that all wires led to the spine of the book so that it was neat when turning pages. The connections were also secured as I glued the back of the pages together.There are six drilled holes in the platform that the wires can thread to under the room and to the breadboard. 
 
 
 ![Image](finalbook2.jpg)
@@ -742,7 +742,7 @@ After soldering, I threaded everything through the fabricated form, securing wir
 Through testing each individual elements, soldering wires, coding all elements together, using the breadboard and installing specific tech components into aesthetic fabrication, I have successfully fiinished the final wiring.
 
 ### Construction of Physical Book
-Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. To plan the pages and where each interactin goes, I made a miniature version as a template for the final version. The interaction for each page is wired to the page before it so that when the page is turned from right to left it triggers the interaction and then you read the narrative on the front of the page whilst the interaction has started. I did it this way as I did not want the audience to read it first and then the action happen, I preferred the action to start happening whilst the audience reads it.
+Mounted on a cardboard base, the pages are made from thick paper and bounded using thread and a book binding stitch. To plan the pages and where each interaction goes, I made a miniature version as a template for the final version. The interaction for each page is wired to the page before it so that when the page is turned from right to left it triggers the interaction and then you read the narrative on the front of the page whilst the interaction has started. I did it this way as I did not want the audience to read it first and then the action happen, I preferred the action to start happening whilst the audience reads it.
 I included extra pages so the wires can be threaded on the back of each page. The wires are taped with electrical tape onto the aluminium switches. I used strips of folded aluminium foil and double sided tape to adhere the aluminium. These extra pages are glued together concealing the messy wires. 
 
 ![Image](finalbook1.jpg)
@@ -757,7 +757,7 @@ I included extra pages so the wires can be threaded on the back of each page. Th
 (This is an image of the drilled holes where the wires come out and connect to the book.)
 
 I handwrote the narrative in the book as I do not have access to a printer. Although this apsect is not ideal, I think it gives it an authentic feel as if your actually reading someone's story or diary.
-A limitation I had is that sometimes the pages touch unintentionally. However, after glueing the apges together, they are very thick which has significantly reduced this problem.
+A limitation I had is that sometimes the pages touch unintentionally. However, after glueing the pages together, they are very thick which has significantly reduced this problem.
 Apart from this limitation, I am very happy with the book and the authentic personal experience it creates.
 
 
@@ -819,12 +819,12 @@ The music continued whilst the fireplace illuminated. It was as if the house was
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 The final code for my project can be found at this link:
-(https://makecode.microbit.org/_iKpAew1Y98F1)
+(https://makecode.microbit.org/_DmvggL60vXty)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 Throughout the design process of this project, I utilised the Double Diamond method as it helped me to order my thoughts and ideas, consequently helping me to make the best possible version of my project.
-Following the first diamond in the Double Diamond Design method: discover and define, I first discovered my area of interest. At first, my area of interest was creating any interactive art that did not have a defined purpose. However, I needed to be even more specific in order to truly discover what type of project I wanted to create and to gain true insight. To discover my area of interest I relied on my own hobbies whilst also doing some online research on related interactive projects. Through this research, I discovered that instead of gadget type project that is created to solve a specific problem, I wanted to create something for the pure intention of art; I wanted to make something interactive and aesthetically pleasing. So to re-define my area of interest, I decided to delve deeper into interactive sculptural art. 
+Following the first diamond in the Double Diamond Design method: discover and define, I first discovered my area of interest. At first, my area of interest was creating any interactive art that did not have a defined purpose. However, I needed to be even more specific in order to truly discover what type of project I wanted to create and to gain true insight. To discover my area of interest I relied on my own hobbies whilst also doing some online research on related interactive projects. Through this research, I discovered that instead of a gadget type project that is created to solve a specific problem, I wanted to create something for the pure intention of art; I wanted to make something interactive and aesthetically pleasing. So to re-define my area of interest, I decided to delve deeper into interactive sculptural art. 
 
 To begin the second step of the first diamond: define, I developed my design intent. After doing some research of related projects, I was able to define my design intention that guided my research and design process. Through the define step, I needed to find out exactly what I wanted to create in the most simplest terms; I had to get to the root of my intentions for this project. Through the insight I gained in the discover step and online research, I was able to successfully define my true intention of this project.
 
@@ -835,7 +835,7 @@ Within this step, I finalised and further developed my chosen design concept. I 
 The four core design principles also contributed to my successful, critical and evaluative design process. By 'putting people first' and developing an understanding of my true aspirations, I had to revisit my area of interest a few times to narrow down a specific type of project I wanted to create, thus putting my needs first and understanding my true aspiration.
 I also communicated visually and inclusively by creating many visual indications of my ideas such as: lists, diagrams, images and moodboards. Whilst doing so I also inclusively focused on both my overall design intention and the true purpose of my design concept which guided my design process and expanded my understanding of my overall intention along the way.
 By collaborating and co-creating I polished my final ideas and gained valuable insight through great inspiration. This was completed through community disscussion boards in which I posted each step of my design process whilst also commenting and contrbuting to other's design processes. This aspect helped me to elucidate my ideas as I had to explain them to others. It also helped me as other's input led me to many useful resources which expanded my knowledge and research and the many contributed ideas helped me to adavnace my basic idea.
-I also completed many iterations. This is evident through the many different touch sensors I trialed, the different methods I used to make the record (eg. paper tube and bead), my many different diagrams to determine different aspects and the fact that I have still not finished my testing and prototyping. Through this iteration, I am able to choose the most successful, reliable, feasible or aesthetically pleasing version, thus making my final project the best possible overall version and building my confidence with each facet of the final project.
+I also completed many iterations. This is evident through the many different touch sensors I trialed, the different methods I used to make the record (eg. paper tube and bead), and my many different diagrams to determine different aspects. Through this iteration, I am able to choose the most successful, reliable, feasible or aesthetically pleasing version, thus making my final project the best possible overall version and building my confidence with each facet of the final project.
 
 
 ## Reflection ##
@@ -848,22 +848,24 @@ What parts of your project do you feel are novel. This is IMPORTANT to help just
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
-The elements of my project that I believe to be most successful are the immersive detail and ambience of the room, how the room electronically comes alive and the experience of the book translated into a physical space. I really enjoyed this project and how I developed my idea so much through the design process. I began with just wanting to create a miniature scene that includes movement and sound. However, through the double diamond process, individual ideation and peer input, I have greatly expanded this base idea and created a successful and purposeful project. I am also very proud of how I persisted even with countless setbacks and with my minimal knowledge. Consequently, I have greatly expanded my knowledge of electronics as I came into this course with no experience with electronics, circuits, coding or basically anything in that realm.
+The elements of my project that I believe to be most successful are the immersive detail and ambience of the room, how the room electronically comes alive and the experience of the book translated into a physical space. The immense detail I included truly creates an immersive experience and further visually develops the narrative. I really enjoyed this project and how I developed my idea so much through the design process. I began with just wanting to create a miniature scene that includes movement and sound. However, through the double diamond process, individual ideation and peer input, I have greatly expanded this base idea and created a successful and purposeful project. I am also very proud of how I persisted even with countless setbacks and with my minimal knowledge. Consequently, I have greatly expanded my knowledge of electronics as I came into this course with no experience with electronics, circuits, coding or basically anything in that realm.
 
-On the contrary, I did encounter many setbacks and hurdles within the process which introduces some parts of my project which could be improved. I really struggled finding a sufficient sensor input that was reliable but also descrete in the pages of the book. But my downfall was immediately going for a complicated tech solution of capacitive touch sensors which were too unreliable. If I had gone with a much more simpler option first like circuit switches I would have reduced this process significantly, thus giving me more time to work on the aesthetic of the book and to streamline or even advance each interaction. A physical part of my project that could have been improved is inventing a way so that the pages will not touch and trigger the interactions when not intended. I could not think of a way to do this but with more time and research I would have been able to make the book more user friendly. Although this is not a major problem as the thickness of the pages significantly reduced this problem, it could still be improved. I could have also improved on the final fabrication of the wires. I had to change the fabrication of the fan at the last minute so I did not have time to fully fabricate it. This is not too important as it cannot be seen but if I wanted to streamline the look more I could have added a wooden box, but this would have just made it more bulky. On the outside some wires are visible. If I wanted to make this project more streamline I could add another layer of ply wood to cover them up. I could have improved the door interaction by making the servo attachment more discrete. This method was not my first choice, so i had to adapt after some hurdles. Although it can be seen it is not noticeable and does not take away from the experience. Even without these elements I am still happy with the final fabrication.
+On the contrary, I did encounter many setbacks and hurdles within the process which introduces some parts of my project which could be improved. I really struggled finding a sufficient sensor input that was reliable but also discrete in the pages of the book. But my downfall was immediately going for a complicated tech solution of capacitive touch sensors which were too unreliable. If I had gone with a much more simpler option first, like circuit switches I would have reduced this process significantly, thus giving me more time to work on the aesthetic of the book and to streamline or even advance each interaction. 
+A physical part of my project that could have been improved is inventing a way so that the pages will not touch and trigger the interactions when not intended. I could not think of a way to do this but with more time and research I would have been able to make the book more user friendly. Although this is not a major problem as the thickness of the pages significantly reduced this problem, it could still be improved. I could have also improved on the final fabrication of the wires. I had to change the fabrication of the fan at the last minute so I did not have time to fully fabricate it. This is not too important as it cannot be seen but if I wanted to streamline the look more I could have added a wooden box, but this would have just made it more bulky. On the outside some wires are visible. If I wanted to make this project more streamline I could add another layer of ply wood to cover them up. I could have improved the door interaction by making the servo attachment more discrete. This method was not my first choice, so I had to adapt after some hurdles. Although it can be seen it is not noticeable and does not take away from the experience. Even with these limitations I am still happy with the final outcome.
 
 I used a few external research documents to guide my construction of the miniature room elements and to get the electronic technical parts operating correctly. As stated earlier in the 'other research' section, I used a tutorial for the miniature record player and the upholstered armchair. Adapting these tutorials to cater for electronic components and the materials I had access to, I used them as a rough guidelines and to help spark ideas (Materials, methods, aesthetic) on how to physically create these elements. I added aspects of my own to fit the aesthetic of my room, such as the sewed dimples on the armchair and the wooden exterior of the record player. 
 I also did some research on ways to execute the action on sensors on the page of a book. First looking at capacitive touch sensors and closing a circuit with the human body, I used a few online resources to expand my understanding of these methods and help me translate these physical circuits into digital code. As I progressed through the touch sesnor testing, I utilised more resources that focused more on triggering the action through touching a pin and 3V. Using an animated book tutorial and paper piano tutorial, I was able to recontextualise the physical workings and adapt the code for my specific situation, consequently, finding the most reliable option for the more complicated components such as the speaker and servo. Online research was extremely helpful during both my design and physical construction process. I used pinterest to develop mood boards on the different parts of the process which allowed me to narrow down exactly what I wanted to create, as I was slightly unsure at the begginning.  Through the related projects, I was inspired to include immense detail and it gave me some ideas of the room I wanted to created and what the story behind the room would entail. The related projects both gave me ideas of miniature scenes and interactive books and how I can combine these seperate elements to create my project. Overall, through online research of both aesthetic and technical components, I was able to discover similar ideas, expand my individual knowledge and apply the notions conveyed within my own project. 
 
 
-There are many elements of my project that are novel. Overall, I have not been able to find something exactly like my project. I have found iterations of miniature models that use electronics but do not incorporate the larger narrative or physical book and on the other hand, I have found interactive books that do not involve a physical miniature space (as seen in my related projects section). By combining theses two different projects I have created a novel experience. I wanted to create something that combines the feeling of physically reading a book with a visual physical experience, which I had never seen before. Rather than digitally creating visuals that tell a story or two dimensionally visualising a story in a physical space, I aimed to created a experience that visually narrates a physical book in a physical space. I wanted to create a very unique expereince and truly bring the reader into the story. I often find myself getting lost in the words on a page and not truly imaginatively visualising what is happening, so I wanted to elucidate a story in an actual physical space. Although in our modern world there are other forms of visual entertainment such as movies and books, I created a whole new experience that is more complex, engaging and immersive and combines the visual component of movies but alters it to be three dimensional and the narrative of a book.
+There are many elements of my project that are novel. Overall, I have not been able to find something exactly like my project. I have found iterations of miniature models that use electronics but do not incorporate the larger narrative or physical book and on the other hand, I have found interactive books that do not involve a physical miniature space (as seen in my 'related projects' section). By combining theses two different projects I have created a novel experience. I wanted to create something that combines the feeling of physically reading a book with a visual physical experience, which I had never seen before. Rather than digitally creating visuals that tell a story or two dimensionally visualising a story in a physical space, I aimed to created an experience that visually narrates a physical book in a physical space. I wanted to create a very unique expereince and truly bring the reader into the story. I often find myself getting lost in the words on a page and not truly imaginatively visualising what is happening, so I wanted to elucidate a story in an actual physical space. Although in our modern world there are other forms of visual entertainment such as movies and books, I created a whole new experience that is more complex, engaging and immersive and combines the visual component of movies but alters it to be three dimensional and follow the narrative of a book. I have also never seen a device or project that uses a book to trigger things externally. As seen in my related projects, there are some interactive book projects but they only trigger things on the actual page of the book. I wanted to expand this project from a two dimensional into a three dimensional realm. Another element that is novel is the amount of interactions. Many miniature scenes use electronics but they usually only use one component like turning on lights etc. 
+I however go very much past this limit and incorporate artificial movement, lights, sound, and natural movement to truly create an immersive memorable experience that is novel. 
 
-An interesting extension of this project would be to instead of having a book, record my voice to play with it. This changes the experience greatly as it transitions from more of a physical literary realm moving towards more of a strictly visual space. This of course introduces the great debate of books vs movies/audio books and the difference between holding a physical book and reducing entertainment to just a visually and audio stimulating experience. I like the incorporation of the book as it relates the physical space to a physical book and makes the experience more authentic. Through human interaction, i aimed to develop relatability and I wanted to make it seem as if you were in the scene yourself, which accounts for the lack of characters in the physical space and the first person story.
+To improve or expand my project I could make it more elaborate. I could create more interactions and even expand the scene to multiple rooms. This would have the same functionality and experience of my current project but it would just be more immersive and complicated.
 
-My project could also be adpated into an educational tool. Each page could have a word and then that action could be represented in the scene. This would help children learn the meanings behind words and to eventually associate words with their corresponding meanings. This would completely change the experience as the target audience, complexity of use, and simple visual representation would need to be adapted so that children can easily use, understand and learn from the device.
+An interesting extension of this project would be instead of having a book, record my voice to play with it. This changes the experience greatly as it transitions from more of a physical literary realm moving towards more of a strictly visual space. This of course introduces the great debate of books vs movies/audio books and the difference between holding a physical book and reducing entertainment to just a visually and audio stimulating experience. I like the incorporation of the book as it relates the physical space to a physical book and makes the experience more authentic. Through human interaction, I aimed to develop relatability and I wanted to make it seem as if you were in the scene yourself, which accounts for the lack of characters in the physical space and the first person story.
 
-In a much different context, this project could be adapted into a tool used for investigative criminal studies. The scene could be used to reconstruct crimes and solve them. 
+My project could also be adapted into an educational tool. Each page could have a word and then that action could be represented in the scene. This would help children learn the meanings behind words and to eventually associate words with their corresponding meanings. This would completely change the experience as the target audience, complexity of use, and simple visual representation would need to be adapted so that children can easily use, understand and learn from the device.
 
-My project could aslo be used to plan set design for theatre shows. Planning these big productions on a miniature scale is very helpful to test the different set configurations, lighting design and  spatial composition. This would obviously change the target audeince, purpose and functionality of my project.
+In a much different context, this project could be adapted into a tool used for investigative criminal studies. The scene could be used to reconstruct crimes and solve them. My project could also be used to plan set design for theatre shows. Planning these big productions on a miniature scale is very helpful to test the different set configurations, lighting design and spatial composition. This would obviously change the target audeince, purpose and functionality of my project.
 
 Overall, I really enjoyed both the process and final product. I enjoyed learning about new ideological design processes and implementing them in a real context. I liked designing the room and creating a thorough experience through the small details and overall ambience of the room. The final product is also very rewarding as I put in a lot of work and it is nice to see my project in its final form, operating well and looking aesthetically pleasing. 
