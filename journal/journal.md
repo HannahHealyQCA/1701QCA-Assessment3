@@ -862,4 +862,8 @@ An interesting extension of this project would be to instead of having a book, r
 
 My project could also be adpated into an educational tool. Each page could have a word and then that action could be represented in the scene. This would help children learn the meanings behind words and to eventually associate words with their corresponding meanings. This would completely change the experience as the target audience, complexity of use, and simple visual representation would need to be adapted so that children can easily use, understand and learn from the device.
 
+In a much different context, this project could be adapted into a tool used for investigative criminal studies. The scene could be used to reconstruct crimes and solve them. 
+
+My project could aslo be used to plan set design for theatre shows. Planning these big productions on a miniature scale is very helpful to test the different set configurations, lighting design and  spatial composition. This would obviously change the target audeince, purpose and functionality of my project.
+
 Overall, I really enjoyed both the process and final product. I enjoyed learning about new ideological design processes and implementing them in a real context. I liked designing the room and creating a thorough experience through the small details and overall ambience of the room. The final product is also very rewarding as I put in a lot of work and it is nice to see my project in its final form, operating well and looking aesthetically pleasing. 
